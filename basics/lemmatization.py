@@ -1,4 +1,4 @@
-import nltk
+import nltk 
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 nltk.download ("wordnet") # only need to do once
