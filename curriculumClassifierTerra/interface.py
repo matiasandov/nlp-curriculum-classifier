@@ -2,8 +2,8 @@ import PySimpleGUI as sg
 
 sg.theme('DarkAmber')   # Add a touch of color
 # All the stuff inside your window.
-layout = [  [sg.Text('Some text on Row 1')],
-            [sg.Text('Enter something on Row 2'), sg.InputText()],
+layout = [  [sg.Text('Selección de Curriculums')],
+            [sg.Text('Al subir un CV podrás ')],
             [sg.Button('Ok'), sg.Button('Cancel')] ]
 
 # Create the Window
