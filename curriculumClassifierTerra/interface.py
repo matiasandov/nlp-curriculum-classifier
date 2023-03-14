@@ -23,6 +23,9 @@ while True:
     if event == sg.WIN_CLOSED or event == "Cancel":
         break
     elif event == "Submit":
+        prediccion, probabilidad = processPdf.process_response(values["-IN-"])
         print(values["-IN-"])
+        percentage = probabilidad * 100
+        print(f"{percentage:.1f}%")
 
 window.close()
