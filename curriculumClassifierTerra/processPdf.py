@@ -63,8 +63,13 @@ def call_model(text):
     new_clf.classes_ = saved_clf.classes_
     new_clf.feature_log_prob_ = saved_clf.feature_log_prob_
     new_clf.class_log_prior_ = saved_clf.class_log_prior_
+    #Nombre de la prediccion
     prediccion = new_clf.predict(data)
-    probabilidad = new_clf.predict_proba(data)
+    #prediccion = prediccion[0]
+    #Probabilidad numerica
+    probabilidad = new_clf.score(data, prediccion)
+    prediccion = prediccion[0]
+    #probabilidad = max(probabilidad)
     
     return prediccion, probabilidad
 

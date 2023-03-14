@@ -1,4 +1,5 @@
 import PySimpleGUI as sg
+import processPdf
 
 sg.theme("DarkTeal2")   # Add a touch of color
 
