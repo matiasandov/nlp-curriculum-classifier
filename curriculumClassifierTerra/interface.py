@@ -1,7 +1,9 @@
 import PySimpleGUI as sg
 import processPdf
 
-prediccion, probabilidad = processPdf.process_response(path)
+#prediccion, probabilidad = processPdf.process_response(path)
+# percentage = probabilidad * 100
+# print(f"{percentage:.1f}%")
 
 sg.theme("DarkTeal2")   # Add a touch of color
 
