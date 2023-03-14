@@ -1,6 +1,8 @@
 import PySimpleGUI as sg
 import processPdf
 
+prediccion, probabilidad = processPdf.process_response(path)
+
 sg.theme("DarkTeal2")   # Add a touch of color
 
 # layout de dos columnas
