@@ -27,7 +27,7 @@ def process_response(pathPdf):
 
     # Close the PDF file
     pdf_file.close()
-    print(text)
+    
     return call_model(text)
     
     #Machine learning model
@@ -65,13 +65,15 @@ def call_model(text):
     new_clf.class_log_prior_ = saved_clf.class_log_prior_
     #Nombre de la prediccion
     prediccion = new_clf.predict(data)
+    print(prediccion)
     #prediccion = prediccion[0]
     #Probabilidad numerica
     probabilidad = new_clf.score(data, prediccion)
     prediccion = prediccion[0]
     #probabilidad = max(probabilidad)
     
+    print(prediccion)
     return prediccion, probabilidad
 
 
-print(process_response("CV DIEGO RUBIO.pdf"))
+print(process_response("Bestie.pdf"))
