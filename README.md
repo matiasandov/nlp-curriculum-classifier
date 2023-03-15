@@ -15,7 +15,7 @@ Additionally, a model was developed to find similarity between a job position an
 
 Finally, everything was integrated into a simple Python application developed with PySimpleGUI where a CV can be selected and a prediction can be made for it.
 
-The selected final ANN model can be observed in the ANN_classifier_oficial.ipynb file, while the final trained Naive Bayes model is in the naive_bayes_oficial.ipynb file. The vector similarity model, which was not deployed in the app, is in jobMatching.ipynb. The PySimpleGUI interface is also included.
+The selected final ANN model can be observed in the `nlp-curriculum-classifier/curriculumClassifierTerra/ANN_classifier_oficial.ipynb` ANN_classifier_oficial.ipynb file, while the final trained Naive Bayes model is in the naive_bayes_oficial.ipynb file. The vector similarity model, which was not deployed in the app, is in jobMatching.ipynb. The PySimpleGUI interface is also included.
 
 _______________________________________________________________________
 
