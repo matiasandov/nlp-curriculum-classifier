@@ -22,9 +22,17 @@ while True:
     if event == sg.WIN_CLOSED or event == "Cancel":
         break
     elif event == "Submit":
-        prediccion, probabilidad = processPdf.process_response(values["-IN-"])
+        #no considerado es 1
+        #(0.9365207, 1)
+        probabilidad, prediccion = processPdf.process_response(values["-IN-"])
         #print(values["-IN-"])
         percentage = probabilidad * 100
+        
+        if prediccion == 1:
+            prediccion = 'No considerado'
+        else:
+            prediccion = 'Considerado para siguiente entrevista'
+        
         layout= [
             [sg.Text("Resultados para el archivo seleccionado", font=('Helvetica', 32))],
             [sg.Text("Archivo: ", font=('Helvetica', 14))],
