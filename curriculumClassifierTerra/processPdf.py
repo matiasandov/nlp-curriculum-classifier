@@ -151,7 +151,7 @@ def call_model(text):
     return prediccion, pred_class[0]
 
 
-print(process_response("Bestie.pdf"))
+#print(process_response("Bestie.pdf"))
 
 #print(call_model("In this example, we create a 2D NumPy array my_array using the np.array() method. We can then access individual elements of the array using indexing, e.g. my_array[0, 1] returns the element at the first row and second column of the array, which is 2. We can also use slicing to extract rows or columns of the array, e.g. my_array[:, 1] returns the second column of the array. Finally, we can perform various NumPy array operations on the array, such as multiplying all elements by 2, which returns a new array with the same shape as my_array but with all elements multiplied by 2."))
 
