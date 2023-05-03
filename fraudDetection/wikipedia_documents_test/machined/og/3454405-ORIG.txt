@@ -1,0 +1,97 @@
+Dolphin (emulator)
+
+Dolphin is a video game console emulator for the GameCube and Wii that runs on Windows, Linux, macOS, and Android.
+
+It had its inaugural release in 2003 as freeware for Windows. Dolphin was the first GameCube emulator to successfully run commercial games. After troubled development in the first years, Dolphin became free and open-source software and subsequently gained support for Wii emulation. Soon after, the emulator was ported to Linux and macOS. As mobile hardware got more powerful over the years, running Dolphin on Android became a viable option.
+
+Dolphin has been well received in the IT and video gaming media for its high compatibility, steady development progress, the number of available features, and the ability to play games with graphical improvements over the original consoles.
+
+Dolphin was first released in September 2003 by programmers Henrik Rydgård (ector) and F|RES as an experimental Nintendo GameCube emulator that could boot up and run commercial games. Audio was not yet emulated, and there were performance issues. Many games crashed on start up or barely ran at all; average speed was from 2 to 20 frames per second (FPS). Its name refers to the development code name for the GameCube.
+
+Dolphin was officially discontinued temporarily in December 2004, with the developers releasing version 1.01 as the final version of the emulator. The developers later revived the project in October 2005.
+
+Dolphin became an open-source project on 13 July 2008 when the developers released the source code publicly on a SVN repository on Google Code under the GNU General Public License v2 (GPLv2). At this point, the emulator had basic Wii emulation implemented, limited Linux compatibility and a new GUI using wxWidgets. The preview builds and unofficial SVN builds were released with their revision number (e.g., RXXXX) rather than version numbers (e.g., 1.03). As with previous builds, differences between consecutive builds are typically minor.
+As of February 2009, the software was able to successfully boot and run the official Wii System Menu v1.0. Shortly after, almost all versions of the Wii system software became bootable.
+
+By April 2009, most commercial games, GameCube and Wii alike, could be fully played, albeit with minor problems and errors, with a large number of games running with few or no defects. Adjustments to the emulator had allowed users to play select games at full speed for the first time, audio was dramatically improved, and the graphical capabilities were made more consistent aside from minor problems.
+
+By late October 2009, several new features were incorporated into the emulator, such as automatic frame-skipping, which increased the performance of the emulator, as well as increased stability of the emulator overall. Also improved was the NetPlay feature of the emulator, which allowed players to play multiplayer GameCube and Wii games online with friends, as long as the game didn't require a Wii Remote. The emulator's GUI was also reworked to make it more user-friendly, and the DirectX plug-in received further work.
+
+On 12 April 2010 Dolphin 2.0 was released.
+
+By the end of November 2010, the developers had fixed most of the sound issues such as crackling, added compatibility with more games, and increased the overall emulation speed and accuracy.
+
+In June 2011, version 3.0 was released. Strange user interface behavior, crashes, graphical glitches and other various issues were fixed. The release notes state that the majority of games "run perfectly or with minor bugs.” The release featured redesigned configuration windows, an improved LLE sound engine, new translations, added support for the Wii Remote speaker, EFB format change emulation, graphics debugger and audio dumping among several other new features. The 3.0 release removed the plug-in interface in order to “allow for a much better integration with the other parts of Dolphin.” The developers also added a Direct3D 11 video back-end and an XAudio2 audio back-end.
+
+On , version 3.5 of Dolphin was released, featuring support for emulating the GameCube Broadband Adapter and Microphone accessories. It introduced a FreeBSD port, free replacement for the DSP firmware, and the WBFS file format.
+
+On 6 April 2013, the Dolphin development team released the first builds for Google's Android mobile operating system. As of September 2013, only a handful of devices contained the hardware to support OpenGL ES 3.0, with Google officially supporting the standard in software since July 2014 with the introduction of Android 4.3 Jelly Bean. Games run at an average of 1 FPS. The developer has cited the Samsung Galaxy S4 as one of the first phones capable of playing games at higher speeds, but even it will have considerable performance limitations.
+
+On 22 September 2013, version 4.0 of Dolphin was released, featuring back-end improvements to OpenGL rendering and OpenAL audio, broader controller support, networking enhancements, and performance tweaks for macOS and Linux builds. Months later, versions 4.0.1 and 4.0.2. were released, fixing minor bugs.
+
+On 12 October 2013 (4.0-155), Direct3D 9 support was removed from the project, leaving Direct3D 11 and OpenGL as the two remaining video back-ends. The Dolphin Team explained this, stating that the plug-in was "inherently flawed" and that trying to evade its several flaws "wasted time and slowed development."
+
+On 19 May 2014, the Dolphin Team announced that 32-bit support for Windows and Linux would be dropped. The Dolphin Team stated that it was becoming increasingly difficult to maintain the 32-bit builds, and that the 32-bit releases simply offered an inferior experience compared to their 64-bit counterparts. Furthermore, the vast majority of their users were already using 64-bit CPUs, and most users of 32-bit builds were 64-bit compatible yet were using 32-bit by mistake. The combination of these factors made 32-bit support unnecessary. 32-bit Android builds suffered from similar issues, but ARMv7 support remained for another year until the AArch64 JIT was ready and devices were available.
+Throughout 2014, several features were implemented into Dolphin, including disc loading emulation, native support for GameCube controllers, perfect audio emulation, and bug fixes for problems which had been present since the emulator's earliest days. Memory management unit (MMU) improvements allowed many games to boot and work properly for the first time. Improvements towards the emulator also allowed for it to run well on Android using the Nvidia Tegra processor, albeit with minor difficulties.
+
+In coordination with the developers of the "VBA-M" Game Boy Advance emulator, support for linking GameCube and Game Boy Advance games was implemented into Dolphin in March 2015.
+
+On 25 May 2015 – the Dolphin Development team announced that they had successfully re-licensed the code base from "GPLv2 only" to "GPLv2 or any later" in order to improve license compatibility with other Free and open-source projects and be able to share and exchange code with them.
+
+In August 2015, the Dolphin developers announced further improvements with audio and throughout December 2015 the Dolphin project fixed audio issues on TR Wii Remotes. Two months later, in February 2016, a DirectX 12 back-end was mainlined after months of development.
+
+On 24 June 2016, version 5.0 of Dolphin was released, making various fixes and additions to the emulator.
+
+Development of a Vulkan-based graphics renderer began in June 2016. After a month, the developer announced that it is “now feature-complete" and that it's "time for clean-ups/bug-fixing/performance work.“ Development of the renderer was still done in a dedicated branch for the next few months until the code was finally merged in October 2016.
+
+In September 2016, Dolphin's developers announced the emulator was now able to boot all official GameCube titles. The last title to be supported for boot-up, "", had been particularly difficult to emulate due to the game's use of the memory management unit. Also they announced that they removed Triforce emulation, because of no maintenance in the Triforce emulation's code.
+
+In March 2017, support was added for the Wii Shop Channel.
+
+Two experimental features, both of which never reached maturity, were removed in May 2017: The DirectX 12 renderer – which found a suitable replacement in the Vulkan back-end – and the alternative CPU emulator JIT IL.
+
+Continuing this year's earlier work on graphics performance-related matters, Dolphin developers implemented a solution for the long-standing problem known as shader compilation stuttering. The stuttering is caused by the emulator waiting for the graphics driver to compile shaders required for new environments or objects. The solution that the "Ubershaders" – in development since 2015 – present to the problem was to emulate the Wii's and GameCube's rendering pipeline by way of an interpreter running on the host system's graphics processor itself until a specialized shader has been compiled and can be used for future frames, at a lower cost to performance.
+
+18 August 2017 marks the culmination of work started in late 2016 when the cross-platform MMORPG "Dragon Quest X" was added to the list of playable games just two months before support for the online functionality of the Wii version was dropped. The addition relied on a number of features that had been previously added to the emulator simply for the sake of accuracy, such as support for the Wii Shop Channel. Support for Wii File System, an encrypted file system that was originally designed for the Wii U, was also added after a rigorous amount of reverse engineering.
+
+In the first half of 2018 Dolphin's developers deprecated the wxWidgets GUI and replaced it with one based on Qt because the original GUI's limitations stood in the way of implementing new features. Among the other newly introduced features were "Asynchronous Shader Compilation" similar to Ishiiruka, an auto-update feature, and integration with Discord.
+
+In summer 2018 Dolphin's Vulkan renderer was brought to macOS via MoltenVK and the Android version was brought back to Google Play with monthly updates.
+
+Features of Dolphin include the ability to start games regardless of region, record tool-assisted speedruns, and the use of cheat codes with Action Replay and Gecko. Functions of the original GameCube controllers and Wii Remotes can be mapped to PC controllers. The emulator allows for the use of real GameCube controllers through the use of a USB adapter and Wii Remotes through Bluetooth connection. Controller expansions are also supported, including the Wii MotionPlus adapter, Wii Nunchuk, Classic controller, Guitar, Drums, and Turntable.
+
+Two kinds of network play are supported by Dolphin: Emulated local multiplayer and Nintendo Wi-Fi Connection. The first only works among Dolphin users. It applies to games that by default have no online option. The second kind is for online gameplay for WFC supported Wii games with other Dolphin users as well as real Wii users.
+
+Game progress can be saved on virtual GameCube Memory Cards, emulated Wii flash memory, and save states. Dolphin features a Memory Card Manager which allows transfer of save files to and from virtual GameCube memory cards.
+
+In conjunction with the "VBA-M" Game Boy Advance emulator, Dolphin supports linking GameCube and Game Boy Advance titles.
+
+Like many other console emulators on PC, Dolphin supports arbitrary resolutions, whereas the GameCube and Wii only support up to 480p.
+
+Dolphin can load customized texture maps. These can also be of higher resolution than the original textures. The emulator also has the ability to export a game's textures in order for graphic artists to modify them.
+
+Dolphin can output stereoscopic 3D graphics on any platform Dolphin runs. Special hardware such as Nvidia 3D Vision is also supported. The ability to play games in stereoscopic 3D is a feature the original consoles never had, although Nintendo did originally plan to release stereoscopic 3D add-on screen for the GameCube.
+
+Additional features to further enhance the graphics quality are also available. Dolphin supports spatial anti-aliasing, anisotropic filtering, post-processing pixel shaders, and a widescreen hack for forcing widescreen output on games that do not support it natively. Games can also achieve higher-than-intended frames per second.
+
+The Dolphin emulator has been well received by the gaming community, with the program's ability to run games at a higher resolution than the GameCube's native 480i and Wii's native 480p resolution receiving particular praise from the gaming community. "PC Gamer" editor Wes Fenlon called it "one of the only emulators to make many games better" and praised it for continually "making major, sometimes huge improvements to compatibility and performance”. "Wololo.net" praised the system's high compatibility.
+
+Dolphin has been used by some people as a tool to mitigate certain shortcomings for gamers; in 2012, business owner and father Mike Hoye, who had been playing "" with his daughter and realized that the game referred to the main character as a male individual regardless of the inputted name, changed all of the game's cutscene dialogue text to refer to a girl instead of a boy by editing it through a hex editor, testing out the game's ISO using Dolphin. The emulator's netplay feature has been described by ArsTechnica to be serving as an alternative to the discontinued Nintendo Wi-Fi Connection.
+
+A version of Dolphin made to emulate the Triforce arcade system titled Dolphin Triforce was in development by the Dolphin team, but was eventually disabled after development priorities shifted and the feature became unmaintained. Downloads of Dolphin Triforce are still available from the website and the source code is available from GitHub in a dedicated repository.
+
+Dolphin VR is a third party project aimed to extend Dolphin with the ability to play games “in Virtual Reality with accurate life-size scale, full FOV [field of view], a 3D HUD, independent aiming, and the ability to look around.” HTC Vive and Oculus Rift are supported.
+
+PC Gamer tested a few games with Dolphin VR. Metroid Prime and F-Zero GX received especially high praise with one editor feeling “childlike wonder when playing Metroid Prime in VR” and another stating that “F-Zero [is] the thing that sold me on Dolphin VR”.
+
+The latest release is 5.0 and the source code is hosted on GitHub. The Free Software Foundation maintains the position that GPL software cannot be combined with Oculus SDK's license.
+
+In reaction to the removal of DirectX 9 support, Dolphin developer Tino created an unofficial fork called "Ishiiruka" on 18 October 2013. The name is Japanese for Dall's porpoise. Although the focus is Windows with DirectX 9 and 11 support, Linux versions also exist.
+
+The fork attempts to remedy performance problems present in Dolphin such as microstuttering due to shader compilation. Ishiiruka serves as base for the canonical client of the Super Smash Brothers Melee netplay communities "Faster Melee" and "SmashLadder".
+
+John Linneman of Eurogamer talks in the October 2016 "Metroid Prime" episode of their "Digital Foundry Retro" video series about Ishiiruka. He compares playing Metroid Prime via Ishiiruka to playing it on original hardware, Wii and GameCube, and upstream Dolphin. Linneman argues that “the benefits [of emulation] kind of outweigh any of the smaller issues that you might encounter”. He continues to point out features of Ishiiruka that “allow you to push the visuals beyond what you can achieve using standard Dolphin. For instance, you can add lots of cool additional enhancements like depth of field, ambient occlusion, various types of color correction and a whole lot more […]. It's also worth noting that this version of Dolphin helps avoid the shader compilation stutters that plagued the official release of the emulator and it leads to a much more fluid experience.”
+
+As with Dolphin, development is hosted on GitHub.
+
+

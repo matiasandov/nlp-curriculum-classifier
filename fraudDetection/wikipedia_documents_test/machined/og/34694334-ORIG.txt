@@ -1,0 +1,38 @@
+Cleaning symbiosis
+
+Cleaning symbiosis is a mutually beneficial association between individuals of two species, where one (the cleaner) removes and eats parasites and other materials from the surface of the other (the client). Cleaning symbiosis is well-known among marine fish, where some small species of cleaner fish, notably wrasses but also species in other genera, are specialised to feed almost exclusively by cleaning larger fish and other marine animals. Other cleaning symbioses exist between birds and mammals, and in other groups.
+
+Cleaning behaviour was first described by the Greek historian Herodotus in about 420 BC, though his example (birds serving crocodiles) appears to occur only rarely.
+
+The role of cleaning symbioses has been debated by biologists for over thirty years. Some believe that cleaning represents selfless co-operation, essentially pure mutualism, increasing the fitness of both individuals. Others such as Robert Trivers hold that it illustrates mutual selfishness, reciprocal altruism. Others again believe that cleaning behaviour is simply one-sided exploitation, a form of parasitism.
+
+Cheating, where either a cleaner sometimes harms its client, or a predatory species mimics a cleaner, also occurs. Predatory cheating is analogous to Batesian mimicry, as where a harmless hoverfly mimics a stinging wasp, though with the tables turned. Some genuine cleaner fish, such as gobies and wrasse, have the same colours and patterns, in an example of convergent evolution. Mutual resemblance among cleaner fish is analogous to Müllerian mimicry, as where stinging bees and wasps mimic each other.
+
+In his "Histories" (book II), the ancient Greek historian Herodotus wrote:
+
+Herodotus thus claimed (circa 440 BC) that Nile crocodiles had what would now be called a cleaning symbiosis with the bird he called the "trochilus", possibly a sandpiper; but while he was right about the existence of cleaning symbioses, there is little evidence for it in crocodiles. In 1906 Henry Scherren quoted John Mason Cook, son of travel agent Thomas Cook, as reporting from Egypt that he had seen some spur-winged plovers approach a crocodile, which opened its jaws for them:
+
+MacFarland and Reeder, reviewing the evidence, found that
+
+Cleaning symbiosis is a relationship between a pair of animals of different species, involving the removal and subsequent ingestion of ectoparasites, diseased and injured tissue, and unwanted food items from the surface of the host organism (the client) by the cleaning organism (the cleaner). Its status has been debated by biologists, with viewpoints ranging from pure mutualism through to a form of exploitative parasitism by the cleaner.
+
+Marine biologist Alexandra Grutter explains:
+
+Grutter and her colleague Robert Poulin, reviewing over thirty years of debate by biologists on cleaning symbioses, argue that "Cleaning symbioses may not be mutualistic associations but rather one-sided exploitation. However, one must then ask why no counter-adaptation has evolved in clients to free them from this exploitation. If clients are the puppets of cleaners, then the fitness consequences of being exploited must be small". They quote as an example of an early position, C. Limbaugh writing in 1961: "From the standpoint of the philosopher of biology, the extent of cleaning behavior in the ocean emphasizes the role of co-operation in nature as opposed to the tooth-and-claw struggle for existence".
+
+In 1971, mathematical biologist Robert Trivers wrote more carefully "Cleaner organisms and their hosts meet the preconditions for the evolution of reciprocally altruistic behavior. The host's altruism is to be explained as benefiting him because of the advantage of being able quickly and repeatedly to return to the same cleaner" (i.e. mutual selfishness).
+
+By 1987 G. S. Losey wrote less optimistically "Cleaners are nothing but very clever behavioral parasites ... that have taken advantage of the rewarding aspects of tactile stimulation, found in nearly all vertebrates." Poulin and Grutter remark that "Over the last few decades, ... the opinion of scientists regarding cleaning symbioses has changed, from selfless cooperation, to a mutually beneficial interaction, and finally to a one-sided exploitation."
+
+Cleaning symbiosis is known from several groups of animals both in the sea and on land (see table). Cleaners include fish, shrimps and birds; clients include a much wider range of fish, marine reptiles including turtles and iguanas, octopus, whales, and terrestrial mammals. Cleaning symbioses with reptile clients include fish cleaning the teeth of American crocodiles ("Crocodylus acutus"), geckos eating mosquitoes on Aldabra giant tortoises ("Geochelone gigantea") and scarlet crabs ("Grapsus grapsus"), and three species of Galapagos finches removing ticks from marine iguanas ("Amblyrhynchus cristatus").
+
+The best known cleaning symbioses are among marine fishes, where several species of small fish, notably of wrasse, are specialised in colour, pattern and behaviour as cleaners, providing a cleaning and ectoparasite removal service to larger, often predatory fish. Cleaner species, as shown in the table, vary widely in their degree of dependence on their clients. Some are essentially pure obligate symbionts like the cleaner wrasse; some are opportunistic or facultative symbionts, like the orange chromide or some cleaner shrimps; and some, like the oxpeckers, combine a little eating of parasites (beneficial to client) with taking of blood (harmful to client), their favoured food.
+
+Many cleaner fish in different families, such as the Caribbean neon goby ("Elacatinus evelynae") and the Indo-Pacific cleaner wrasse ("Labroides dimidiatus") share the distinctive combination of a long narrow body, a longitudinal stripe, a blue colour, and small size. "Convergent signalling among cleaners, using size, stripes and colour, should facilitate their recognition by fish clients." This is analogous to Müllerian mimicry where genuinely aposematic species (such as wasps) mimic each other's warning colours.
+
+The sabre-toothed blenny ("Aspidontus taeniatus") is a predatory blenny, an aggressive mimic which accurately resembles the bluestreak cleaner wrasse, not only in colour and pattern, but also in the ritualised dance the cleaner wrasse makes when potential client fish swim nearby. However, instead of providing the cleaning service that it signals, it bites off pieces of healthy skin, scales and mucus from the host and then swims rapidly away to safety.
+
+The effect of aggressive mimicry in a cleaning symbiosis is analogous to Batesian mimicry, where a harmless "edible mimetic species copies the warning signal of a noxious, aposematic model species, thereby gaining protection from predators". As in Batesian mimicry, the rate of successful attacks on cleaning clients by the bluestriped fangblenny ("Plagiotremus rhinorhynchos"), which like the sabre-toothed blenny mimic the bluestreak cleaner wrasse ("Labroides dimidiatus"), is frequency-dependent, meaning that the mimicry is more effective when the cheating fangblenny is rare compared to the cleaner wrasse. The difference, however, is that the aggressive mimic is inserting itself into a co-operative relationship (between cleaner and client), whereas "Batesian mimics insert themselves into an antagonistic predator–prey interaction (where the models are the unpalatable prey)." The fangblenny has evolved an opioid-containing venom which dulls pain and lowers blood pressure, confusing the bitten host and giving the cheating mimic time to escape.
+
+
+

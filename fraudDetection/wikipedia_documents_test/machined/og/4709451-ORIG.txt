@@ -1,0 +1,91 @@
+Fund accounting
+
+Fund accounting is an accounting system for recording resources whose use has been limited by the donor, grant authority, governing agency, or other individuals or organisations or by law. It emphasizes accountability rather than profitability, and is used by Nonprofit organizations and by governments. In this method, a "fund" consists of a self-balancing set of accounts and each are reported as either unrestricted, temporarily restricted or permanently restricted based on the provider-imposed restrictions.
+
+The label "fund accounting" has also been applied to investment accounting, portfolio accounting or securities accounting – all synonyms describing the process of accounting for a portfolio of investments such as securities, commodities and/or real estate held in an investment fund such as a mutual fund or hedge fund. Investment accounting, however, is a different system, unrelated to government and nonprofit fund accounting.
+
+Nonprofit organizations and government agencies have special requirements to show, in financial statements and reports, how money is spent, rather than how much profit was earned. Unlike profit oriented businesses, which use a single set of self-balancing accounts (or general ledger), nonprofits can have more than one general ledger (or fund), depending on their financial reporting requirements. An accountant for such an entity must be able to produce reports detailing the expenditures and revenues for each of the organization's individual funds, and reports that summarize the organization's financial activities across all of its funds.
+
+Fund accounting distinguishes between two primary classes of fund. Those funds that have an unrestricted use, that can be spent for any purposes by the organization and those that have a restricted use. The reason for the restriction can be for a number of different reasons. Examples include legal requirements, where the moneys can only be lawfully used for a specific purpose, or a restriction imposed by the donor or provider. These donor/provider restrictions are usually communicated in writing and may be found in the terms of an agreement, government grant, will or gift.
+
+When using the fund accounting method an organization is able to therefore separate the financial resources between those immediately available for ongoing operations and those intended for a donor specified reason. This also provides an audit trail that all moneys have been spent for their intended purpose and thereby released from the restriction.
+
+An example may be a local school system in the United States. It receives a grant from the its local state government to support a new special education initiative, another grant from the federal government for a school lunch program, and an annuity to award teachers working on research projects. At periodic intervals, the school system needs to generate a report to the state about the special education program, a report to a federal agency about the school lunch program, and a report to another authority about the research program. Each of these programs has its own unique reporting requirements, so the school system needs a method to separately identify the related revenues and expenditures. This is done by establishing separate funds, each with its own chart of accounts.
+
+Nonprofit organization's finances are broken into two primary categories, unrestricted and restricted funds. The number of funds in each category can change over time and are determined by the restrictions and reporting requirements by donors, board, or fund providers.
+
+Unrestricted funds are, as their name suggests, unrestricted and therefore organizations don't necessarily need more than a single General Fund, however many larger organizations use several to help them account for the unrestricted resources. Unrestricted funds may include:
+
+Restricted funds may include:
+
+Like Profit making organizations, nonprofits and governments will produce Consolidated Financial Statements. These are generated in line with the reporting requirements in the country they are based or if they are large enough they may produce them under International Financial Reporting Standards (IFRS), an example of this is the UK based charity Oxfam. If the organization is small it may use a cash basis accounting but larger ones generally use accrual basis accounting for their funds.
+
+Nonprofit organizations in the United States have prepared their financial statements using Financial Accounting Standards Board (FASB) guidance since 1993. The financial reporting standards are primarily contained in FAS117 and FIN43. FASB issued a major update in 2016 that changed reporting net assets from three primary categories to two categories, restricted and unrestricted funds and how these are represented on financial statements.
+
+Nonprofit and governments use the same four standard financial statements as profit-making organizations:
+
+In the United States there may also be a separate "Statement of functional expenses" which distributes each expense of the organization into amounts related to the organization's various functions. These functions are segregated into two broad categories: "program" services and "supporting" services. Program services are the mission-related activities performed by the organization. Non-program supporting services include the costs of fund-raising events, management and general administration. This is a required section of the Form 990 that is an annual informational return required by the Internal Revenue Service for nonprofit organizations.
+
+The United Kingdom government has the following funds:
+
+The United Kingdom government produces the financial statements called the Whole of Government Accounts. They are produced using the annual basis and generated under the International Financial Reporting Standards like any other large organisation.
+
+State and local governments use three broad categories of funds: "governmental" funds, "proprietary" funds and "fiduciary" funds.
+
+Governmental funds include the following.
+
+Proprietary funds include the following.
+
+
+Fiduciary funds are used to account for assets held in trust by the government for the benefit of individuals or other entities. The employee pension fund, created by the State of Maryland to provide retirement benefits for its employees, is an example of a fiduciary fund. Financial statements may further distinguish fiduciary funds as either "trust" or "agency" funds; a trust fund generally exists for a longer period of time than an agency fund.
+
+State and local governments have two other groups of self-balancing accounts which are not considered funds: "general fixed assets" and "general long-term debts". These assets and liabilities belong to the government entity as a whole, rather than any specific fund. Although general fixed assets would be part of government-wide financial statements (reporting the entity as a whole), they are not reported in governmental fund statements. Fixed assets and long-term liabilities assigned to a specific enterprise fund are referred to as "fund fixed assets" and "fund long-term liabilities".
+
+The accrual basis of accounting used by most businesses requires revenue to be recognized when it is earned and expenses to be recognized when the related benefit is received. Revenues may actually be received during a later period, while expenses may be paid during an earlier or later period. (Cash basis accounting, used by some small businesses, recognizes revenue when received and expenses when paid.)
+
+Governmental funds, which are not concerned about profitability, usually rely on a "modified accrual" basis. This involves recognizing revenue when it becomes both available and measurable, rather than when it is earned. "Expenditures", a term preferred over "expenses" for modified accrual accounting, are recognized when the related liability is incurred.
+
+Proprietary funds, used for business-like activities, usually operate on an accrual basis. Governmental accountants sometimes refer to the accrual basis as "full accrual" to distinguish it from "modified" accrual basis accounting.
+
+The accounting basis applied to fiduciary funds depends upon the needs of a specific fund. If the trust involves a business-like operation, accrual basis accounting would be appropriate to show the fund's profitability. Accrual basis is also appropriate for trust funds using interest and dividends from invested principle amounts to pay for supported programs, because the profitability of those investments would be important.
+
+State and local governments report the results of their annual operations in a comprehensive annual financial report (CAFR), the equivalent of a business's financial statements. A CAFR includes a single set of government-wide statements, for the government entity as a whole, and individual fund statements. The Governmental Accounting Standards Board establishes standards for CAFR preparation.
+
+Governments do not use the terms "profit" and "loss" to describe the net results of their operations. The difference between revenues and expenditures during a year is either a "surplus" or a "deficit". Since making a profit is not the purpose of a government, a significant surplus generally means a choice between tax cuts or spending increases. A significant deficit will result in spending cuts or borrowing. Ideally, surpluses and deficits should be small.
+
+Federal government accounting uses two broad groups of funds: the "federal funds group" and the "trust funds group".
+
+
+
+The United States government uses accrual basis accounting for all of its funds. Its consolidated annual financial report uses two indicators to measure financial health: "unified budget deficit" and "net operating (cost)/revenue".
+
+The unified budget deficit, a cash-basis measurement, is the equivalent of a checkbook balance. This indicator does not consider long-term consequences, but has historically been the focus of budget reporting by the media. Except for the unified budget deficit, the federal government's financial statements rely on accrual basis accounting.
+
+Net operating (cost)/revenue, an accrual basis measurement, is calculated in the "Statements of Operations and Changes in Net Position" by comparing revenues with costs. The federal government's "net operating (cost)/revenue" is comparable with the "net income/(loss)" reported on an income statement by a business, or the "surplus/(deficit)" reported by state and local governments.
+
+The following is a simplified example of the fiscal cycle for the general fund of the City of Tuscany, a fictitious city government.
+
+The fiscal cycle begins with the approval of a budget by the mayor and city council of the City of Tuscany. For Fiscal Year 2009, which began on July 1, 2008, the Mayor's Office estimated general fund revenues of $35 million from property taxes, state grants, parking fines and other sources. The estimate was recorded in the fund's general ledger with a debit to "estimated revenues" and a credit to "fund balance".
+
+An appropriation was approved by the city council, authorizing the city to spend $34 million from the general fund. The appropriation was recorded in fund's general ledger with a debit to "fund balance" and a credit to "appropriations".
+
+In subsidiary ledgers, the appropriation would be divided into smaller amounts authorized for various departments and programs, such as:
+
+The complexity of an appropriation depends upon the city council's preferences; real-world appropriations can list hundreds of line item amounts. An appropriation is the legal authority for spending given by the city council to the various agencies of the city government. In the example above, the city can spend as much as $34 million, but smaller appropriation limits have also been established for individual programs and departments.
+
+During Fiscal Year 2009, the city assessed property owners a total of $37 million for property taxes. However, the Mayor's Office expects $1 million of this assessment to be difficult or impossible to collect. Revenues of $36 million were recognized, because this portion of the assessment was "available and measurable" within the current period.
+
+The city spent a total of $30 million on its employee payroll, including various taxes, benefits and employee withholding. A portion of the payroll taxes will be paid in the next fiscal period, but modified accrual accounting requires the expenditure to be recorded during the period the liability was incurred.
+
+The Public Works Department spent $1 million on supplies and services for maintaining city streets.
+At the end of the fiscal year, the actual revenues of $36 million were compared with the estimate of $35 million. The $1 million difference was recorded as a credit to the fund balance.
+
+The city spent $31 million of its $34 million appropriation. A credit of $3 million was applied to the fund balance for the unspent amount.
+
+When the current fiscal period ended, its appropriation expired. The balance remaining in the general fund at that time is considered "unexpended". City government agencies are not allowed to spend the unexpended balance, even if their expenditures during the now-ended fiscal period were less than their share of the expired appropriation. A new appropriation is necessary to authorize spending in the next fiscal period. (Liabilities incurred at the end of the fiscal period for goods and services ordered, but not yet received, are usually considered "expended", allowing payment at a later date under the current appropriation. Some jurisdictions, however, require the amounts to be included in the following period's budget.)
+
+Instead of re-applying the unspent balance from the general fund to the same programs, the city council may choose to spend the money on other programs. Alternatively, they may use the balance to cut taxes or pay off a long-term debt. With a large surplus, reducing the tax burden will usually be the preferred choice.
+
+
+
+

@@ -1,0 +1,27 @@
+GT Advance Championship Racing
+
+GT Advance Championship Racing (known as Advance GTA in Japan) is a racing game developed by MTO and published by THQ. It was a launch title for the Game Boy Advance, and was released in Japan on March 21, 2001, in North America on June 11, 2001, and in Europe on June 22, 2001. The game's sequel, "", was released on June 30, 2002 in North America.
+
+"GT Advance" features forty-five Japanese cars and places the player in races on thirty-two tracks. Due to positive reaction to the game in Japan, THQ purchased publishing rights for the North American and European releases to the game after a reported bidding war, and added in a controversial password save system into the game to cut costs.
+
+The game was received with mostly positive reviews from critics that praised the game for its fun gameplay, but THQ was criticized by most reviewers for adding passwords to the game when the Japanese version had battery-backed saves.
+
+"GT Advance Championship Racing" is a customizable experience, including 48 cars from 8 car manufacturers, and 32 courses. Some of the cars featured in the game are exclusively found in Asia, such as the Nissan Cube. The courses vary between paved and dirt roads, requiring the player to adapt their driving to meet the conditions of the course they're driving on.
+
+The game's championship mode features four levels of play, three cups of varying levels, and an unlockable "kart racing mode". Upgrades earned through gameplay can be added to the player's car, and in some cases, they can change the physical appearance of the vehicle. The game contains multiplayer support, allowing two people to play against each other using a Game Link Cable.
+
+Controls are simple, with the A and B buttons controlling the player's gas and brakes respectively. The R and L buttons shift the car up or down a gear in manual control, and the D-Pad controls the car's steering. The game requires the player to master the powerslide technique to skid around corners and to reduce their lap time.
+
+The roads in the game are painted on a flat plane, which allows the game to progress at a smooth rate, but makes it harder for the player to see upcoming turns in the road. The problem can be remedied by playing through a track multiple times to gain familiarity with the turns in a course. The cars are rendered through sprite frames, giving the impression of 3D graphics in the game.
+
+The Japanese version of the game, "Advance GTA", had save support. However, THQ pulled the battery RAM out of the North American and European releases of the game, and utilized passwords to save data instead. The system forces players of the North American and European releases to enter a sixteen digit code consisting of upper and lowercase letters, numbers, and symbols into the game to retrieve their data. Many critics blamed THQ for what was perceived to be a cost-cutting measure. It was the only major change from the Japanese version of the game.
+
+MTO began development on "GT Advance Championship Racing" about a year before the release of the game in Japan. The game was first announced on August 18, 2000, under the name of "Pocket GT Advance". With the exception of a new password save system, tweaking was kept to a minimum for the North American version of the game. The choice was made in the Japanese version to use mostly English in the game so it would be playable outside Japan.
+
+The Japanese version of the game, "Advance GTA", was praised by critics and the anticipation for the North American and European releases of the game grew. A reported bidding war between United States publishing companies to release the game in the US began after the positive feedback from the Japanese version. It was reported a month afterwards that THQ had gained the publishing rights for the game's North American and European releases.
+
+"GT Advance Championship Racing" garnered praise from critics for its overall gameplay, but the inclusion of a password save system by THQ into the North American and European releases of the game was heavily criticized. IGN's Craig Harris praised the high quality graphics engine and the entertaining powerslide system, but observed that with regards to the password system, "... some players (myself included) just might throw their hands up in disgust with what THQ has done to the game." GameSpot observed that, ""GT Advance" is, at its core, a very robust and graphically impressive racing game." Despite praising the gameplay, however, GameSpot recommended that players buy a Japanese import version of the game instead, since it was in English and included a battery save feature. Eurogamer wrote that even though "GT Advance" was hampered by passwords, "... you should definitely own GT Advance one way or another, as current gripe excepted; it's a sterling example of handheld racing done properly."
+
+Responding to criticisms of the password save system, THQ later re-instated the battery save feature into the two sequels of the game, "GT Advance 2: Rally Racing", and "".
+
+

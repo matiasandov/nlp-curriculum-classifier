@@ -1,0 +1,111 @@
+Jodrell Bank Observatory
+
+The Jodrell Bank Observatory (originally the Jodrell Bank Experimental Station and from 1966 to 1999, the Nuffield Radio Astronomy Laboratories; ) hosts a number of radio telescopes, and is part of the Jodrell Bank Centre for Astrophysics at the University of Manchester. The observatory was established in 1945 by Bernard Lovell, a radio astronomer at the University of Manchester to investigate cosmic rays after his work on radar during the Second World War. It has since played an important role in the research of meteors, quasars, pulsars, masers and gravitational lenses, and was heavily involved with the tracking of space probes at the start of the Space Age. The managing director of the observatory is Professor Simon Garrington.
+
+The main telescope at the observatory is the Lovell Telescope, which is the third largest steerable radio telescope in the world. There are three other active telescopes at the observatory; the Mark II, and and 7 m diameter radio telescopes. Jodrell Bank Observatory is the base of the Multi-Element Radio Linked Interferometer Network (MERLIN), a National Facility run by the University of Manchester on behalf of the Science and Technology Facilities Council.
+
+The Jodrell Bank Visitor Centre and an arboretum, are in the civil parish of Lower Withington and the Lovell Telescope and the observatory are in Goostrey civil parish, near Goostrey and Holmes Chapel, Cheshire, North West England. The observatory is reached from the A535. The Crewe to Manchester Line passes right by the site, and Goostrey station is a short distance away. In 2018, the observatory became a candidate for UNESCO World Heritage site status.
+
+Jodrell Bank was first used for academic purposes in 1939 when the University of Manchester's Department of Botany purchased three fields from the Leighs. It is named from a nearby rise in the ground, Jodrell Bank, which was named after William Jauderell whose descendants lived at the mansion that is now Terra Nova School. The site was extended in 1952 by the purchase of a farm from George Massey on which the Lovell Telescope was built.
+
+The site was first used for astrophysics in 1945, when Bernard Lovell used some equipment left over from World War II, including a gun laying radar, to investigate cosmic rays. The equipment was a GL II radar system working at a wavelength of 4.2 m, provided by J. S. Hey. He intended to use the equipment in Manchester but electrical interference from the trams on Oxford Road prevented him from doing so. He moved the equipment to Jodrell Bank, south of the city, on 10 December 1945. Lovell's main research was transient radio echoes, which he confirmed were from ionized meteor trails by October 1946. The first staff were Alf Dean and Frank Foden who observed meteors observed with the naked eye while Lovell observed the electromagnetic signal using equipment. The first time Lovell turned the radar on – 14 December 1945 – the Geminids meteor shower was at a maximum.
+
+Over the next few years, Lovell accumulated more ex-military radio hardware, including a portable cabin, known as a "Park Royal" in the military (see Park Royal Vehicles). The first permanent building was near to the cabin and was named after it.
+
+Jodrell Bank is primarily used for investigating radio waves from the planets and stars.
+
+A searchlight was loaned to Jodrell Bank in 1946 by the army; a broadside array was constructed on its mount by J. Clegg. It consisted of a number of Yagi antennas. It was used for astronomical observations in October 1946.
+
+On 9 and 10 October 1946, the telescope observed ionisation in the atmosphere caused by meteors in the Giacobinids meteor shower. When the antenna was turned by 90 degrees at the maximum of the shower, the number of detections dropped to the background level, proving that the transient signals detected by radar were from meteors. The telescope was then used to determine the radiant points for meteors. This was possible as the echo rate is at a minimum at the radiant point, and a maximum at 90 degrees to it. The telescope and other receivers on the site, studied auroral streamers that were visible in early August 1947.
+
+The Transit Telescope was a parabolic reflector zenith telescope built in 1947. At the time, it was the world's largest radio telescope. It consisted of a wire mesh suspended from a ring of scaffold poles, which focussed radio signals on a focal point above the ground. The telescope mainly looked directly upwards, but the direction of the beam could be changed by small amounts by tilting the mast to change the position of the focal point. The focal mast was changed from timber to steel before construction was complete.
+
+The telescope was replaced by the steerable Lovell Telescope and the Mark II telescope was subsequently built at the same location.
+
+The telescope could map a ± 15-degree strip around the zenith at 72 and 160 MHz, with a resolution at 160 MHz of 1 degree. It discovered radio noise from the Great Nebula in Andromeda—the first definite detection of an extragalactic radio source—and the remains of Tycho's Supernova in the radio frequency; at the time it had not been discovered by optical astronomy.
+
+The "Mark I" telescope, now known as the Lovell Telescope, was the world's largest steerable dish radio telescope, in diameter, when it was constructed in 1957; it is now the third largest, after the Green Bank telescope in West Virginia and the Effelsberg telescope in Germany. Part of the gun turret mechanisms from the battleships "HMS Revenge" and "HMS Royal Sovereign" were reused in the telescope's motor system. The telescope became operational in mid-1957, in time for the launch of the Soviet Union's Sputnik 1, the world's first artificial satellite. The telescope was the only one able to track Sputnik's booster rocket by radar; first locating it just before midnight on 12 October 1957.
+
+In the following years, the telescope tracked various space probes. Between 11 March and 12 June 1960, it tracked the United States' NASA-launched Pioneer 5 probe. The telescope sent commands to the probe, including those to separate it from its carrier rocket and turn on its more powerful transmitter when the probe was eight million miles away. It received data from the probe, the only telescope in the world capable of doing so. In February 1966, Jodrell Bank was asked by the Soviet Union to track its unmanned moon lander Luna 9 and recorded on its facsimile transmission of photographs from the moon's surface. The photographs were sent to the British press and published before the Soviets made them public.
+
+In 1969, the Soviet Union's Luna 15 was also tracked. A recording of the moment when Jodrell Bank's scientists observed the mission was released on 3 July 2009.
+
+With the support of Sir Bernard Lovell, the telescope tracked Russian satellites. Satellite and space probe observations were shared with the US Department of Defense satellite tracking research and development activity at Project Space Track.
+
+Tracking space probes only took a fraction of the Lovell telescope's observing time and the remainder used for scientific observations including using radar to measure the distance to the moon and to Venus; observations of astrophysical masers around star-forming regions and giant stars; observations of pulsars (including the discovery of millisecond pulsars and the first pulsar in a globular cluster); observations of quasars and gravitational lenses (including the detection of the first gravitational lens and the first Einstein ring). The telescope has been used for SETI observations.
+
+The Mark II is an elliptical radio telescope, with a major axis and a minor axis of . It was constructed in 1964. As well as operating as a standalone telescope, it has been used as an interferometer with the Lovell Telescope, and is now primarily used as part of the MERLIN project.
+The Mark III telescope, the same size as the Mark II, was constructed to be transportable but it was never moved from Wardle, near Nantwich, where it was used as part of MERLIN. It was built in 1966 and decommissioned in 1996.
+
+The Mark IV, V and VA telescope proposals were put forward in the 1960s through to the 1980s to build even larger radio telescopes.
+
+The Mark IV proposal was for a diameter standalone telescope, built as a national project.
+
+The Mark V proposal was for a moveable telescope. The concept of this proposal was for a telescope on a 3/4-mile long railway line adjoining Jodrell Bank but concerns about future levels of interference meant that a site in Wales would have been preferable. Design proposals by Husband and Co and Freeman Fox, who had designed the Parkes Observatory telescope were put forward.
+
+The Mark VA was similar to the Mark V but with a smaller dish of and a design using prestressed concrete, similar to the Mark II (the previous two designs more closely resembled the Lovell telescope).
+
+None of the proposed telescopes was constructed, although design studies were carried out and scale models were made, partly because of the changing political climate, partly to the financial constraints of astronomical research in the UK and it became necessary to upgrade the Lovell Telescope to the Mark IA, which overran in terms of cost.
+
+A 50 ft (15 m) alt-azimuth dish was constructed in 1964 for astronomical research and to track the Zond 1, Zond 2, Ranger 6 and Ranger 7 space probes and Apollo 11. After an accident that irreparably damaged the 50 ft telescope's surface, it was demolished in 1982 and replaced with a more accurate telescope, the "42 ft". The 42 ft (12.8 m) dish is mainly used to observe pulsars, and continually monitors the Crab Pulsar.
+
+When the 42 ft was installed, a smaller dish, the "7 m" (actually 6.4 m, or 21 ft, in diameter) was installed and is used for undergraduate teaching. The 42 ft and 7 m telescopes were originally used at the Woomera Rocket Testing Range in Australia. The 7 m was originally constructed in 1970 by Marconi Company.
+
+A Polar Axis telescope was built in 1962. It had a circular 50 ft (15.2 m) dish on a polar mount, and was mostly used for moon radar experiments. It has been decommissioned. An reflecting optical telescope was donated to the observatory in 1951 but was not used much, and was donated to the Salford Astronomical Society around 1971.
+
+The Multi-Element Radio Linked Interferometer Network (MERLIN) is an array of radio telescopes spread across England and the Welsh borders. The array is run from Jodrell Bank on behalf of the Science and Technology Facilities Council as a National Facility. The array consists of up to seven radio telescopes and includes the Lovell Telescope, the Mark II, Cambridge, Defford, Knockin, Darnhall, and Pickmere (previously known as Tabley). The longest baseline is and MERLIN can operate at frequencies between 151 MHz and 24 GHz. At a wavelength of 6 cm (5 GHz frequency), MERLIN has a resolution of 50 milliarcseconds which is comparable to that of the HST at optical wavelengths.
+
+Jodrell Bank has been involved with Very Long Baseline Interferometry (VLBI) since the late 1960s; the Lovell telescope took part in the first transatlantic interferometer experiment in 1968, with other telescopes at Algonquin and Penticton in Canada. The Lovell Telescope and the Mark II telescopes are regularly used for VLBI with telescopes across Europe (the European VLBI Network), giving a resolution of around 0.001 arcseconds.
+
+In April 2011, Jodrell Bank was named as the location of the control centre for the planned Square Kilometre Array, or SKA Project Office (SPO). The SKA is planned by a collaboration of 20 countries and when completed, is intended to be the most powerful radio telescope ever built. In April 2015 it was announced that Jodrell Bank would be the permanent home of the SKA headquarters for the period of operation expected for the telescope (over 50 years).
+
+The Jodrell Bank Centre for Astrophysics, of which the Observatory is a part, is one of the largest astrophysics research groups in the UK. About half of the research of the group is in the area of radio astronomy—including research into pulsars, the Cosmic Microwave Background Radiation, gravitational lenses, active galaxies and astrophysical masers. The group also carries out research at different wavelengths, looking into star formation and evolution, planetary nebulae and astrochemistry.
+
+The first director of Jodrell Bank was Bernard Lovell, who established the observatory in 1945. He was succeeded in 1980 by Sir Francis Graham-Smith, followed by Professor Rod Davies around 1990 and Professor Andrew Lyne in 1999. Professor Phil Diamond took over the role on 1 October 2006, at the time when the Jodrell Bank Centre for Astrophysics was formed. Prof Ralph Spencer was Acting Director during 2009 and 2010. In October 2010, Prof. Albert Zijlstra became Director of the Jodrell Bank Centre for Astrophysics. Professor Lucio Piccirillo was the Director of the Observatory from Oct 2010 to Oct 2011 when Prof Simon Garrington became its managing director.
+
+In May 2017 Jodrell Bank entered into a partnership with the Breakthrough Listen initiative and will share information with Jodrell Bank's team, who wish to conduct an independent SETI search via its 76-m radio telescope and e-MERLIN array.
+
+There is an active development programme researching and constructing telescope receivers and instrumentation. The observatory has been involved in the construction of several Cosmic Microwave Background experiments, including the Tenerife Experiment, which ran from the 1980s to 2000, and the amplifiers and cryostats for the Very Small Array. It has also constructed the front-end modules of the 30 and 44 GHz receivers for the Planck spacecraft. Receivers were also designed at Jodrell Bank for the Parkes Telescope in Australia.
+
+A visitors' centre opened on 19 April 1971 by the Duke of Devonshire, attracted around 120,000 visitors per year. It covered the history of Jodrell Bank and had a 3D theatre hosting simulated trips to Mars.
+Asbestos in the visitors' centre buildings led to its demolition in 2003 leaving a remnant of its far end. A marquee was set up in its grounds while a new science centre was planned. The plans were shelved when Victoria University of Manchester and UMIST merged to become the University of Manchester in 2004, leaving the interim centre, which received around 70,000 visitors a year.
+In October 2010, work on a new visitor centre started and the Jodrell Bank Discovery Centre opened on 11 April 2011. It includes an entrance building, the Planet Pavilion, a Space Pavilion for exhibitions and events, a glass-walled cafe with a view of the Lovell Telescope and an outdoor dining area, an education space, and landscaped gardens including the Galaxy Maze. A large orrery was installed in 2013.
+
+The visitor centre is open to daily and organises public outreach events, including public lectures, star parties, and "ask an astronomer" sessions.
+
+A path around the Lovell telescope is approximately 20 m from the telescope's outer railway, information boards explain how the telescope works and the research that is done with it.
+
+The arboretum, created in 1972, houses the UK's national collections of crab apple "Malus" and mountain ash "Sorbus" species, and the Heather Society's "Calluna" collection. The arboretum also has a small scale model of the solar system, the scale is approximately 1:5,000,000,000. At Jodrell Bank, as part of the "SpacedOut" project, is the Sun in a 1:15,000,000 scale model of the solar system covering Britain.
+
+On 7 July 2010, it was announced that the observatory was being considered for the 2011 United Kingdom Tentative List for World Heritage Site status. It was announced on 22 March 2011 that it was on the UK government's shortlist. In January 2018, it became the UK's candidate for World Heritage status.
+
+In July 2011 the visitor centre and observatory hosted "Jodrell Bank Live" – a rock concert with bands including The Flaming Lips, British Sea Power, Wave Machines, OK GO and Alice Gold. On 23 July 2012 Elbow performed live at the observatory and filmed a documentary of the event and the facility which was released as a live CD/DVD of the concert.
+
+On 31 August 2013 Jodrell Bank hosted a concert performed by the Halle Orchestra to commemorate what would have been Lovell's 100th birthday. As well as a number of operatic performances during the day, the evening Halle performance saw numbers such as themes from Star Trek, Star Wars and Doctor Who among others. The main Lovell telescope was rotated to face the onlooking crowd and used as a huge projection screen showing various animated planetary effects. During the interval the 'screen' was used to show a history of Lovell's work and Jodrell Bank.
+
+There is an astronomy podcast from the observatory, named "The Jodcast". The BBC television programme "Stargazing Live" is hosted in the control room of the observatory. The programme has had four series, in January 2011, 2012, 2013 and 2014.
+
+In July 2018, the observatory will hold Bluedot, a music and science festival, featuring Public Service Broadcasting, The Chemical Brothers, Jim Al-Khalili and Richard Dawkins.
+
+Jodrell Bank's visitor centre had a planetarium until 2003, when it and much else was demolished because of risk of asbestos. The planetarium projector was one-ended, with one star ball, and it could not show stars near the south pole.
+
+As of 2018 there was a small inflatable planetarium dome.
+
+A new planetarium with a computer-generated display will be built in the arboretum, starting in February or March 2019.
+
+On 3 March 2008, it was reported that Britain's Science and Technology Facilities Council (STFC), faced with an £80 million shortfall in its budget, was considering withdrawing its planned £2.7 million annual funding of Jodrell Bank's e-MERLIN project. The project, which aims to replace the microwave links between Jodrell Bank and a number of other radio telescopes with high-bandwidth fibre-optic cables, greatly increasing the sensitivity of observations, is seen as critical to the survival of the establishment in its present form. Sir Bernard Lovell was quoted as saying "It will be a disaster … The fate of the Jodrell Bank telescope is bound up with the fate of e-MERLIN. I don't think the establishment can survive if the e-MERLIN funding is cut".
+
+On Monday 14 April 2008, Cheshire's 106.9 Silk FM unveiled to its listeners their own campaign song to save Jodrell Bank, entitled "The Jodrell Bank Song" and sung by a group dubbed "The Astronomers". Along with the song, the Silk FM team also produced a music video filmed in front of the iconic Lovell telescope. Silk FM released the song for download from Monday 21 April 2008. All proceeds went towards saving Jodrell Bank.
+
+On 9 July 2008, it was reported that, following an independent review, the STFC had reversed its initial position and would after all guarantee funding of £2.5 million annually for three years.
+
+Jodrell Bank has been mentioned in several popular works of fiction, including Doctor Who ("The Tenth Planet", "Remembrance of the Daleks", "The Poison Sky", "The Eleventh Hour"). It was intended to be a filming location for "Logopolis" (Tom Baker's final "Doctor Who" serial) but budget restrictions prevented this and another location with a superimposed model of a radio telescope was used instead. It was also mentioned in "The Hitchhiker's Guide to the Galaxy" (as well as "The Hitchhiker's Guide to the Galaxy" film), "The Creeping Terror" and "Meteor". Jodrell Bank also featured heavily in the music video to "Electric Light Orchestra"'s 1983 single "Secret Messages". The Prefab Sprout song Technique (from debut album Swoon) opens with the line "Her husband works at Jodrell Bank/He's home late in the morning".
+
+The Observatory is the site of several episodes in the novel "Boneland", by Alan Garner (2012), and the central character, Colin Whisterfield, is an astrophysicist on its staff.
+
+Since 13 July 1988 the Lovell Telescope has been designated as a Grade I listed building. On 10 July 2017 the Mark II Telescope was also designated at the same grade. On the same date five other buildings on the site were designated at Grade II; namely the Searchlight Telescope, the Control Building, the Park Royal Building, the Electrical Workshop, and the Link Hut. Grade I is the highest of the three grades of listing, and is applied to buildings that are of "exceptional interest", and Grade II, the lowest grade, is applied to buildings "of special interest".
+
+
+
+
+

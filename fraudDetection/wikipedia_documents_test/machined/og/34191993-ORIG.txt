@@ -1,0 +1,204 @@
+United States constitutional criminal procedure
+
+The United States Constitution contains several provisions regarding the law of criminal procedure.
+
+Petit jury and venue provisions—both traceable to enumerated complaints in the Declaration of Independence—are included in Article Three of the United States Constitution. More criminal procedure provisions are contained in the United States Bill of Rights, specifically the Fifth, Sixth, and Eighth Amendments. With the exception of the Grand Jury Clause of the Fifth Amendment, the Vicinage Clause of the Sixth Amendment, and (maybe) the Excessive Bail Clause of the Eighth Amendment, all of the criminal procedure provisions of the Bill of Rights have been incorporated to apply to the state governments.
+
+Several of these rights regulate pre-trial procedure: access to a non-excessive bail, the right to indictment by a grand jury, the right to an information (charging document), the right to a speedy trial, and the right to be tried in a specific venue. Several of these rights are trial rights: the right to compulsory process for obtaining witnesses at trial, the right to confront witnesses at trial, the right to a public trial, the right to a trial by an impartial petit jury selected from a specific geography, and the right not to be compelled to testify against oneself. Others, such as the assistance of counsel and due process rights, have application throughout the proceeding.
+
+If a defendant is convicted, the usual remedy for a violation of one of these provisions is reversal of the conviction or modification of the defendant's sentence. With the exception of structural errors (such as the total denial of counsel), constitutional errors are subject to harmless error analysis, although they must be harmless beyond a reasonable doubt. With the exception of a Double Jeopardy or Speedy Trial violation, the government will usually be permitted to retry the defendant. Pursuant to the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), these provisions are the source of nearly all reviewable errors in federal habeas review of state convictions.
+
+Article Three, Section Two, Clause Three of the United States Constitution provides that:
+
+The Fifth Amendment to the United States Constitution provides, in relevant part, that:
+
+The Sixth Amendment to the United States Constitution provides that:
+
+The Eighth Amendment to the United States Constitution provides, in relevant part, that:
+
+The Fourteenth Amendment to the United States Constitution provides, in relevant part, that:
+
+The Supreme Court of the United States issued almost no constitutional criminal procedure decisions for its first century of existence. Professor Akhil Amar highlights two reasons for this. First, the Court's decision in "Barron v. Baltimore" (1833) meant that the federal constitution did not apply in state proceedings until the incorporation of the Bill of Rights after the Fourteenth Amendment. Second, the Court lacked general appellate jurisdiction over federal criminal cases until 1891.
+
+The Marshall Court possessed jurisdiction in criminal cases only via writs of error from state courts, original writs of habeas corpus, and certificates of division from the circuit courts. In three cases involving certificates of division, the Marshall Court decided issues of double jeopardy, but did not clearly rely on the Double Jeopardy Clause. Similarly, the Marshall Court discussed the level of detail required for a sufficient indictment without explicitly citing the Information Clause of the Sixth Amendment.
+
+In two appeals from state courts, the Taney Court considered, and rejected, double jeopardy claims arising from the hypothetical prospect of prosecution by the federal and state governments for the same conduct.
+
+The first Supreme Court decisions to reverse state criminal convictions for constitutional procedural reasons involved the exclusion of African-Americans for grand and petit juries—"Strauder v. West Virginia" (1880), "Virginia v. Rives" (1880), "Neal v. Delaware" (1881), "Carter v. Texas" (1900), "Rogers v. Alabama" (1904), and "Norris v. Alabama" (1935)—and the conviction African-American defendants for crimes involving white victims in the southern states: by a mob-dominated trial, as in "Moore v. Dempsey" (1923); and without counsel, as in "Powell v. Alabama" (1932).
+
+U.S. Const. amend. VIII provides:
+
+"Stack v. Boyle" (1951) is the only case in which the Supreme Court has held the bail imposed to have been constitutionally excessive. There, the Court found $50,000 to be excessive in relation to the flight risk for impecunious defendants charged under the Smith Act. In "United States v. Salerno" (1987), the Court upheld the Bail Reform Act of 1984, which authorized the consideration of future dangerousness in the determination of the amount of, or the denial of, bail.
+
+The incorporation status of the Excessive Bail Clause is unclear. In "Schilb v. Kuebel" (1971), the Court stated in dicta: "Bail, of course, is basic to our system of law, and the Eighth Amendment's proscription of excessive bail has been assumed to have application to the States through the Fourteenth Amendment." In "Murphy v. Hunt" (1982), the Court did not reach the issue because the case was dismissed as moot. Bail was included in the list of incorporated rights in "McDonald v. Chicago" (2010), citing "Schilb".
+
+U.S. Const. amend. V provides:
+
+The Grand Jury Clause applies only to capital and "otherwise infamous" crimes. Any crime "punishable by imprisonment in the penitentiary" is infamous. Only those convicted of felonies, i.e. crimes punishable by greater than one year of imprisonment, are confined to a penitentiary. Any crime punishable by hard labor, regardless of the term or place of imprisonment, is also infamous. Contempt of court, even if punished by greater than one year imprisonment, is not infamous. In "Hurtado v. California" (1884), the Supreme Court held that the Grand Jury Clause was not incorporated to apply to the states by the Fourteenth Amendment.
+
+If the grand jury right attaches, every element of the charged crime must be submitted to the grand jury. Thus, the prosecution cannot augment the indictment without returning to a grand jury. But, the government may narrow the indictment without so returning.
+
+The Grand Jury Clause does very little, if anything, to regulate the procedures of the grand jury. For example, the Clause does not prohibit a grand jury indictment based solely on hearsay evidence. Non-fundamental flaws with the grand jury, such as a violation of the defendant's self-incrimination rights or a violation of grand jury secrecy do not trigger a right not to be tried. In "United States v. Williams" (1992), where the Court rejected a rule that would have required "substantial exculpatory evidence" to be presented to the grand jury, the defendant did not even argue a Fifth Amendment violation. The lack of a grand jury does not deprive the court of jurisdiction, and the defendant may waive the grand jury right.
+
+U.S. Const. amend. VI provides:
+
+A charging instrument is constitutionally sufficient under this clause (and under the Grand Jury Clause) if it (1) "contains the elements of the offense intended to be charged, and sufficiently apprises the defendant of what he must be prepared to meet," and (2) "shows with accuracy to what extent he may plead" double jeopardy in a subsequent prosecution. This right has been incorporated.
+
+In a case submitted to a grand jury, the indictment must satisfy this requirement. In cases not required to be submitted to a grand jury, the formal charging instrument is referred to as an "information" (in the federal system and in some states) or a "complaint."
+
+U.S. Const. amend. VI provides:
+
+The Speedy Trial Clause regulates delay between the bringing of a formal criminal charge and/or the pre-trial deprivation of the accused's liberty and the start of trial. The Clause has been incorporated to apply in state prosecutions.
+
+In "Barker v. Wingo" (1972), the Supreme Court announced four factors relevant to the determination of a Speedy Trial Clause violation: (1) the length of the delay, (2) the reason for the delay, (3) whether the defendant demanded a speedy trial, and (4) prejudice. Applying "Barker", the Court found such a violation in "Doggett v. United States" (1992), which involved an over eight-year period between indictment and arrest. The only possible remedy for a Speedy Trial Clause violation is dismissal with prejudice.
+
+U.S. Const. Art. III, § 2, cl. 3 provides:
+
+The perceived abuse of English criminal venue law was one of the enumerated grievances in the United States Declaration of Independence, which accused George III of the United Kingdom of "transporting us beyond Seas to be tried for pretended offenses."
+
+The "where the said Crimes shall have been committed" language refers to the locus delicti. "[T]he "locus delicti" must be determined from the nature of the crime alleged and the location of the act or acts constituting it." Thus, a single crime may often give rise to several constitutionally permissible venues, and venue may be constitutionally permissible even if an individual defendant was never personally present in the relevant state. For example, conspiracy may be prosecuted wherever the agreement occurred or wherever any overt act was committed.
+
+For the purposes of constitutional venue, the boundaries of the states are questions of law to be determined by the judge, but the location of the crime is a question of fact to be determined by the jury.
+
+The venue provision of Article III (regulating the location of the trial) is distinct from the Vicinage Clause of the Sixth Amendment (regulating the geography from which the jury pool is selected). The unit of the former is the state; the unit of the later is the state and judicial district. Unlike judicial districts under the Vicinage Clause, consistent with Article III, Congress may "provide a place of trial where none was provided when the offense was committed, or change the place of trial after the commission of the offense."
+
+U.S. Const. amend. VI provides:
+
+The Compulsory Process Clause guarantees the defendant the right to obtain favorable witnesses at trial. For example, the Clause prevents a jurisdiction from precluding defendants from calling their codefendants as witnesses. Similarly, the Clause prevents the government from deporting a witness whose testimony would have been both material and favorable to the defense. The right does not pre-empt reasonable procedural rules. Thus, the right does not prevent the preclusion of defense witnesses as a discovery sanction.
+
+U.S. Const. amend. VI provides:
+In "Crawford v. Washington" (2004), the Supreme Court held that the Confrontation Clause bars the "admission of testimonial statements of a witness who did not appear at trial" unless pursuant to one of the "exceptions established at the time of the founding." "[W]hen the declarant appears for cross-examination at trial, the Confrontation Clause places no constraints at all on the use of his prior testimonial statements . . . so long as the declarant is present at trial to defend or explain it." In "Davis v. Washington" (2006), the Court held that the Clause places no restrictions on nontestimonial statements.
+
+"Crawford" did not completely define the term "testimonial." But, "Crawford" held that, "[w]hatever else the term covers, it applies at a minimum to prior testimony at a preliminary hearing, before a grand jury, or at a former trial; and to police interrogations." Laboratory reports of forensic tests are also testimonial, conferring on the defendant a right to cross-examine the analyst who certifies them.
+
+Statements made during police interrogation are nontestimonial if circumstances objectively indicate "that the primary purpose of the interrogation is to enable police assistance to meet an ongoing emergency" but are tesitmonial if circumstances objective indicate "that there is no such ongoing emergency, and that the primary purpose of the interrogation is to establish or prove past events potentially relevant to later criminal prosecution." "[T]he relevant inquiry is not the subjective or actual purpose of the individuals involved in a particular encounter, but rather the purpose that reasonable participants would have had, as ascertained from the individuals' statements and actions and the circumstances in which the encounter occurred."
+
+One exception established at the founding is if the witness is "unavailable to testify, and the defendant had had a prior opportunity for cross-examination." Another such exception is "forfeiture by wrongdoing," i.e. where the defendant intends to obtain and obtains the absence of the witness by wrongdoing. Still another exception is "the use of testimonial statements for purposes other than establishing the truth of the matter asserted." Another possible exception is for dying declarations, i.e. statements made by a speaker on the brink of death while aware that he or she is dying.
+
+U.S. Const. Art. III, § 2, cl. 3 provides:
+
+U.S. Const. amend. VI provides:
+
+One of the enumerated complaints in the Declaration of Independence accused King George III of "depriving us, in many Cases, of the Benefits of Trial by Jury."
+
+Depending on the authorized and actual sentence, upon demand, a criminal defendant has a right to trial by jury. The defendant does not have a right, conversely, to a bench trial without the consent of the prosecution. If the defendant is charged with crimes for which the authorized sentence exceeds six months, whether in state or federal court, the defendant has a right to a jury. Further, the defendant has a right to a trial by jury if the actual sentence exceeds six months and the charged crime has no maximum authorized sentence (e.g. contempt of court).
+
+But, the defendant does not have a right to a jury in stacked misdemeanor prosecutions, even if the cumulative authorized imprisonment exceeds six months, as long as the actual sentence does not. Factors other than actual and authorized sentences may be relevant to seriousness, but so far the Court has pushed back against expanding the jury right.
+
+The trial judge has an obligation to ensure an impartial jury, especially vis-a-vis juror biases and media coverage by such means as jury selection (including voir dire and for-cause challenges), jury sequestration, and jury instructions. For example, this may require the court to permit voir dire on the subject of the juror's potential racial prejudice. In some circumstances, the Sixth Amendment even requires the trial judge to grant a defendant's change of venue motion if an impartial jury cannot be obtained otherwise.
+
+The Sixth Amendment also regulates the availability and use of cause and peremptory challenges. For example, it precludes a jurisdiction from granting the prosecution for-cause removal of jurors who oppose the death penalty. "The most that can be demanded of a venireman in this regard is that he be willing to "consider" all of the penalties provided by state law, and that he not be irrevocably committed, before the trial has begun, to vote against the penalty of death regardless of the facts and circumstances that might emerge in the course of the proceedings." While a defendant is not obliged to use peremptory challenges to cure a trial court's erroneous denial of a defendant's for-cause challenge, if the defendant does so, the defendant may not rely on the error for automatic reversal.
+
+The Supreme Court has held that six-member juries are sufficient and that five-member juries are not. Verdict unanimity is not required for twelve-member juries, but is required for six-member juries.
+
+
+The provision requiring that the jury be drawn "of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law" is known as the Vicinage Clause. The Vicinage Clause places no limits on the prosecution of crimes not committed within a state. Nor does the Clause prevent a crime from being tried by a jury from a different division (a subset of a federal judicial district) within the same district in which the crime was committed. The Third, Fifth, and Sixth Circuits have held that the Vicinage Clause was not incorporated against the states by the Fourteenth Amendment.
+
+U.S. Const. amend. VI provides:
+
+The defendant has a right to have the courtroom open to the public, absent a showing of a substantial government interest that cannot be addressed by alternatives other than closure. The right to a public trial extends to pre-trial matters such as a suppression hearing and jury selection. The Public Trial Clause has its roots in the "traditional Anglo-American distrust for secret trials has been variously ascribed to the notorious use of this practice by the Spanish Inquisition, to the excesses of the English Court of Star Chamber, and to the French monarchy's abuse of the "lettre de cachet"."
+The Sixth Amendment public trial right is held by the defendant, and the excluded public have no ability to assert it. Independently, however, the public has a substantially similar First Amendment right to attend.
+
+U.S. Const. amend. V provides:
+
+While the Self-Incrimination Clause primarily implicates the law of criminal investigations, the Clause also protects against self-incrimination that may occur at trial. Plainly, the Clause prevents the government from compelling the defendant to testify against himself or herself at trial. Further, if the defendant chooses to testify, the Clause prevents the state from requiring her to testify first. But, if the defendant testifies, she cannot claim the privilege against self-incrimination with respect to cross-examination within the scope of the direct examination.
+
+Similarly, the Clause "forbids either comment by the prosecution on the accused's silence or instructions by the court that such silence is evidence of guilt." This principle applies at the sentencing phase, even after a plea of guilty. While the defendant is entitled to a jury instruction forbidding adverse inferences from his or her failure to testify, a defendant is not entitled to prevent such an instruction.
+
+"Nothing in the Fifth Amendment privilege entitles a defendant as a matter of constitutional right to await the end of the State's case before announcing the nature of his defense, any more than it entitles him to await the jury's verdict on the State's case-in-chief before deciding whether or not to take the stand himself." For example, a jurisdiction may require the defendant to disclose intended alibi witnesses before trial.
+
+U.S. Const. amend. V provides:
+
+The Double Jeopardy Clause encompasses four distinct prohibitions: subsequent prosecution after acquittal, subsequent prosecution after conviction, subsequent prosecution after certain mistrials, and multiple punishment in the same indictment. Jeopardy "attaches" when the jury empaneled, the first witness is sworn, or a plea is accepted. The "dual sovereignty doctrine" permits the federal government and each state to proceed separately.
+
+The government is not permitted to appeal or try again after the entry of an acquittal, whether a directed verdict before the case is submitted to the jury, a directed verdict after a deadlocked jury, an appellate reversal for sufficiency (except by direct appeal to a higher appellate court), or an "implied acquittal" via conviction of a lesser included offense. In addition, the government is barred by collateral estoppel from re-litigating against the same defense a fact necessarily found by the jury in a prior acquittal, even if the jury hung on other counts.
+
+This principle does not prevent the government from appealing a pre-trial motion to dismiss or other non-merits dismissal, or a directed verdict after a jury conviction, Nor does it prevent the trial judge from entertaining a motion for reconsideration of a directed verdict, if the jurisdiction has so provided by rule or statute. Nor does it prevent the government from retrying the defendant after a deadlocked jury, an appellate reversal other than for sufficiency, including habeas, or "thirteenth juror" appellate reversals notwithstanding sufficiency on the principle that jeopardy has not "terminated." There may also be an exception for judicial bribery, but not jury bribery.
+
+In "Blockburger v. United States" (1932), the Supreme Court announced the following test: the government may separately try and punish the defendant for two crimes if each crime contains an element that the other does not. "Blockburger" is the default rule, unless the legislatively intends to depart; for example, Continuing Criminal Enterprise (CCE) may be punished separately from its predicates, as can conspiracy.
+
+The "Blockburger" test, originally developed in the multiple punishments context, is also the test for prosecution after conviction. In "Grady v. Corbin" (1990), the Court held that a double jeopardy violation could lie even where the "Blockburger" test was not satisfied, but "Grady" was overruled in "United States v. Dixon" (1993).
+
+The rule for mistrials depends upon who sought the mistrial. If the defendant moves for a mistrial, there is no bar to retrial, unless the prosecutor acted in "bad faith," i.e. goaded the defendant into moving for a mistrial because the government specifically wanted a mistrial. If the prosecutor moves for a mistrial, there is no bar to retrial if the trial judge finds "manifest necessity" for granting the mistrial. The same standard governs mistrials granted sua sponte.
+
+U.S. Const. amend. VI provides:
+
+The Assistance of Counsel Clause includes, as relevant here, at least six distinct rights: the right to counsel of choice, the right to appointed counsel, the right not to be constructively denied counsel, the right to conflict-free counsel, the effective assistance of counsel, and the right to represent oneself pro se.
+
+A defendant does not have a Sixth Amendment right to counsel in any civil proceeding, including a deportation hearing (even though deportability is often a collateral consequence of criminal conviction).
+
+A defendant must be given an opportunity to retain counsel, even if not entitled to appointed counsel. Subject to considerations such as conflicts of interest, scheduling, counsel's authorization to practice law in the jurisdiction, and counsel's willingness to represent the defendant (whether pro bono or for a fee), criminal defendants have a right to be represented by counsel of their choice. The remedy for erroneous depravation of first choice counsel is automatic reversal.
+
+In "Caplin & Drysdale v. United States" (1989), the Court held that there is no Sixth Amendment exception to criminal forfeiture; i.e., after conviction, the government can seek forfeiture of already paid legal fees under a forfeiture statute, notwithstanding the effect on the defendant's ability to retain counsel of choice.
+
+A defendant unable to retain counsel has the right to appointed counsel at the government's expense. While the Supreme Court recognized this right gradually, it currently applies in all federal and state criminal proceedings where the defendant faces authorized imprisonment greater than one year (a "felony") or where the defendant is actually imprisoned.
+
+A defendant does not have a right to appointed counsel if he or she is not sentenced to actual imprisonment and could not have been sentenced for more than one year, even if that conviction is later used to enhance sentencing for another crime, or even if the revocation of probation may result in actual imprisonment. Nor does the defendant have the right to appointed counsel to raise frivolous arguments on direct appeal, or to raise any arguments on habeas or other collateral appeal, even if facing execution.
+
+Whether counsel are appointed or retained, the Clause protects the role of counsel and certain attributes of the attorney-client relationship. For example, the Clause requires that the defendant be given time to consult with counsel and that counsel be given time to investigate the case pre-trial. And, the Clause also prohibits a state from barring a defendant from being cross-examined by counsel, or restricting the order in which the defendant may be called as a witness. Further, the court may not prevent a defendant from consulting with her counsel during an overnight recess, even if the recess bisects direct- and cross-examination of the defendant. Similarly, the defendant has a right to have her counsel make a closing argument, even if a bench trial.
+
+Whether counsel is retained or appointed, the defendant has a right to counsel without a conflict of interest. If an actual conflict of interest is present, and that conflict results in any adverse effect on the representation, the result is automatic reversal. The general rule is that conflicts can be knowingly and intelligently waived, but some conflicts are un-waiveable.
+
+
+In "Strickland v. Washington" (1984), the Court held that, on collateral review, a defendant may obtain relief if the defendant demonstrates both (1) that defense counsel's performance fell below an objective standard of reasonableness (the "performance prong") and (2) that, but for the deficient performance, there is a reasonable probability that the result of the proceeding would have been different (the "prejudice prong").
+
+To satisfy the prejudice prong of "Strickland", a defendant who pleads guilty must show that there is a reasonable probability that, but for counsel's deficient performance, he or she would not have plead guilty. In "Padilla v. Kentucky" (2010), the Court held that counsel's failure to inform an alien pleading guilty of the risk of deportation fell below the objective standard of the performance prong of "Strickland" and permitted an alien who would not have plead guilty but for such failure to withdraw his guilty plea.
+
+To satisfy the prejudice prong of "Strickland", a defendant who rejects the prosecution's plea offer must show that there is a reasonable probability that, but for counsel's deficient performance, the offer would have been accepted by the defendant, not withdrawn by the prosecution, and accepted by the court, and that the sentence actually received exceeded that which would have been received under the plea.
+
+
+In "Faretta v. California" (1975), the Court held that a criminal defendant has the right to knowingly and voluntarily opt for pro se representation at trial. This right is not per se violated by the appointment of standby counsel. There is no constitutional right to self-representation on appeal.
+
+All of the foregoing constitutional provisions apply exclusively to criminal matters. In contrast, the due process and equal protection clauses have substantial application outside of the criminal law.
+
+U.S. Const. amend. V provides:
+
+U.S. Const. amend. XIV, § 1 provides:
+
+The due process clauses of the Fifth and Fourteenth Amendments apply generally to all stages of criminal proceedings. The Due Process Clause of the Fourteenth Amendment was the vehicle for the incorporation of all of the foregoing rights (with the exception of the Grand Jury Clause, the Vicinage Clause, and maybe the Excessive Bail Clause) to apply in state criminal proceedings. Due process is also the catchall vehicle for the enforcement of fundamental fairness, even if the infirmities of a given prosecution do not neatly sound in another enumerated provision.
+
+
+The due process clauses require that the burden of proof in criminal cases be placed on the government, and that the quantum of proof be beyond a reasonable doubt. "In re Winship" (1970) explicitly held that "the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged." But, the state may place the burden of proof for an affirmative defense on the defendant.
+
+Erroneous denial of a reasonable doubt instruction is a structural error that entitles the defendant to automatic reversal. Erroneous definitions of reasonable doubt do not require reversal as long as "taken as a whole, the instructions correctly conveyed the concept of reasonable doubt to the jury." Instructions on certain evidentiary presumptions against the defendant, if interpreted as conclusive presumptions or as shifting the burden of proof to the defendant, are also unconstitutional; permissive presumptions are constitutional. In some circumstances, a trial court must separately instruct the jury on the presumption of innocence, in addition to giving a reasonable doubt instruction.
+
+The reasonable doubt standard is primarily effectuated by jury instructions, but it retains its relevance when the trial judge considers a motion for a directed verdict of acquittal and when an appellate court reviews the sufficiency of the evidence. On federal habeas review of a state conviction for sufficiency of the evidence, to grant relief, the reviewing court must find that "upon the record evidence adduced at the trial no rational trier of fact could have found proof of guilt beyond a reasonable doubt." In a successive, abusive, or defaulted federal habeas review of a state conviction, a defendant claiming "actual innocence" must show that "it is more likely than not that no reasonable juror would have found petitioner guilty beyond a reasonable doubt."
+
+
+"Brady v. Maryland" (1963) is another significant, specific criminal procedural right guaranteed by the due process clauses. "Brady" requires a criminal conviction to be reversed if the government withholds exculpatory (or impeachment) material, within the government's possession, from the defendant, and there is a reasonable probability that, if such material had been disclosed, the result of the proceeding would have been different ("materiality"). "Brady" is a holistic, rather than piece-by-piece, inquiry.
+
+Whether the government acted in "good faith" or "bad faith" is irrelevant to "Brady". But, if the defendant cannot prove that withheld evidence would have been exculpatory, because its import is unknown, to obtain relief, the defendant must instead show that the government acted in bad faith.
+
+The government is not required to disclose impeachment material prior to plea bargaining. Whether the government must disclose exculpatory material during plea bargaining is an open question.
+
+
+"It has long been accepted that a person whose mental condition is such that he lacks the capacity to understand the nature and object of the proceedings against him, to consult with counsel, and to assist in preparing his defense may not be subjected to a trial" consistent with the Due Process Clause. The "test" is "whether he has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding—and whether he has a rational as well as factual understanding of the proceedings against him."
+
+A state may place the burden on the defendant has to prove incompetence by the preponderance of the evidence, but the state cannot require the defendant to prove incompetence by a higher standard, such as clear and convincing evidence. The right to competence cannot be waived because waivers of constitutional rights are required to be knowing and voluntary. The state may involuntarily medicate the defendant in order to make her competent for trial, but only after factual showings that there is a state interest in punishment (as opposed to civil confinement), that the medication is likely to result in competence, and that the medication is necessary to restore competence.
+
+A defendant who is competent to stand trial is therefore also competent to plead guilty, waiving the full panoply of trial rights, but not necessarily competent enough to represent herself at trial in the face of a state procedural rule requiring a higher standard of competence for pro se representation.
+
+Due process prohibits the prosecution from knowingly using falsehood to convict the defendant, and requires reversal if there is a reasonable likelihood that the verdict was affected—whether the falsehood is inculpatory or goes the credibility of a witness.
+
+U.S. Const. amend. XIV, § 1 provides:
+
+The equal protection clauses has at least three applications relevant to criminal proceedings: a prohibition on selective prosecution on invidious bases, a requirement that jury pools and venires represent a "fair cross section" of the community, and a prohibition on the discriminatory use of jury peremptory challenges.
+
+
+The defendant may move to dismiss a criminal charge on the ground that he or she has been singled out for prosecution because of race, gender, religion, national origin, illegitimacy, or similar. In order to get discovery on a racial selective prosecution claim, the defendant must make the threshold showing that the government declined to prosecute similarly situated suspects of other races. The defendant is not entitled to a presumption of selective prosecution based on data regarding the overall population of convicts.
+
+The Equal Protection Clause prohibits the exclusion of persons from selection for a grand or petit jury on the basis of race, regardless of the race of the defendant.
+
+Further, the defendant is entitled to a jury pool that represents a "fair cross section" of the community. In order to prove a "fair cross section" violation, the defendant must show that (1) a "distinctive" (i.e., cognizable) group (2) is not represented fairly and reasonably in the jury pool in proportion to the community (3) due to systematic exclusion.
+
+
+While a defendant is entitled to a fair cross section in the venire, the defendant is not guaranteed a fair cross section in the actual grand jury or petit jury. Yet, the equal protection clause does regulate the use of peremptory challenges in the selection of the petit jury from the venire. In the landmark case of "Batson v. Kentucky" (1986), the Supreme Court reversed a criminal conviction because of the prosecutor's racially motivated use of peremptory challenges.
+
+There are three steps to a "Batson" inquiry. First, the party opposing the use of a peremptory challenge must make a prima facie case. This requires only an inference, not preponderance. Second, the party seeking the peremptory challenge must provide a permissible, neutral explanation for the challenge. Third, the trial court must decide whether the explanation is pretextual. A rationale is pretextual if it applies equally to a similarly situated juror who was seated.
+
+If the trial judge erroneously permits the striking of a juror under "Batson", and the error is preserved, the only remedy is automatic reversal. If the trial judge erroneously prevents the striking of a juror under "Batson", and the juror is seated, the Constitution permits a jurisdiction to utilize harmless error analysis. The race of the defendant is irrelevant to a "Batson" claim. "Batson" also permits the prosecutor to challenge defense peremptory strikes ("reverse "Batson""). And, "Batson" applies equally to race and gender.
+
+
+
+
+

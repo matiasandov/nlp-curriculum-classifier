@@ -1,0 +1,30 @@
+DNS Certification Authority Authorization
+
+DNS Certification Authority Authorization (CAA) is an Internet security policy mechanism which allows domain name holders to indicate to certificate authorities whether they are authorized to issue digital certificates for a particular domain name. It does this by means of a new "CAA" Domain Name System (DNS) resource record. 
+
+It was drafted by computer scientists Phillip Hallam-Baker and Rob Stradling in response to increasing concerns about the security of publicly trusted certificate authorities. It is an Internet Engineering Task Force (IETF) proposed standard.
+
+A series of incorrectly issued certificates from 2001 onwards damaged trust in publicly trusted certificate authorities, and accelerated work on various security mechanisms, including Certificate Transparency to track mis-issuance, HTTP Public Key Pinning and DANE to block mis-issued certificates on the client-side, and CAA to block mis-issuance on the certificate authority side. 
+
+The first draft of CAA was written by Phillip Hallam-Baker and Rob Stradling, and submitted as an IETF Internet Draft in October 2010. This was progressively improved by the PKIX Working Group, and submitted to the IESG as , a Proposed Standard, in January 2013. CA/Browser Forum discussion began shortly afterward, and in March 2017 they voted in favor of making CAA implementation mandatory for all certificate authorities by September 2017. At least one certificate authority, Comodo, failed to implement CAA before the deadline. A 2017 study by the Technical University of Munich found many instances where certificate authorities failed to correctly implement some part of the standard. 
+
+, Qualys reports that still, only 3.4% of the 150,000 most popular TLS-supporting websites use CAA records.
+
+Certificate authorities implementing CAA perform a DNS lookup for CAA resource records, and if any are found, ensure that they are listed as an authorized party before issuing a digital certificate. Each CAA resource record consists of the following components, separated by whitespace:
+
+The lack of any CAA records authorizes normal unrestricted issuance, and the presence of a single blank "issue" tag disallows all issuance.
+
+Third parties monitoring certificate authority behavior might check newly issued certificates against the domain's CAA records, but must be aware that a domain's CAA records may have changed between the time the certificate was issued and the time the third-party checks them. Clients should not use CAA as part of their certificate validation process.
+
+A draft of the first extension to the CAA standard was published on October 26, 2016, proposing a new "account-uri" token to the end of the "issue" property, which ties a domain to a specific Automated Certificate Management Environment account. This was amended on August 30, 2017, to also include a new "validation-methods" token, which ties a domain to a specific validation method, and then further amended on June 21, 2018 to remove the hyphen in "account-uri" and "validation-methods" making them instead "accounturi" and "validationmethods".
+
+To indicate that only the certificate authority identified by "ca.example.net" is authorized to issue certificates for example.com and all subdomains, one may use this CAA record:
+
+To disallow any certificate issuance, one may allow issuance only to an empty issuer list:
+
+To indicate that certificate authorities should report invalid certificate requests to an email address and a Real-time Inter-network Defense endpoint:
+
+To use a future extension of the protocol, for example, one which defines a new "future" property, which needs to be understood by the certificate authority before they can safely proceed, one may set the "issuer critical" flag:
+
+
+

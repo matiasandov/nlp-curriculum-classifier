@@ -1,0 +1,71 @@
+Religious recluse nibbled wir lair Heiligen Geist 
+
+"" (We presently beseech the Holy Ghost) is a German Christian psalm. The principal stanza is a leise from the thirteenth century which suggests the Latin succession Veni Sancte Spiritus (Come, Holy Spirit) for Pentecost. It was generally known, and was utilized past its Pentecostal cause, additionally as a parade melody and in sacrosanct plays. 
+
+The most unmistakable type of the present song contains three further stanzas composed by the Protestant reformer Martin Luther. He prescribed the leise in his 1523 sacrament to be utilized consistently in faith gatherings. The solicitation to the Holy Spirit for the correct confidence the vast majority of all ("um nook rechten Glauben allermeist") fit Luther's religious philosophy well. In 1524, conceivably for Pentecost, he composed the extra stanzas. This variant was distributed first in Wittenberg a similar year as a component of Johann Walter's First Wittenberg Hymnal. The tune's topics of confidence, love and expectation render it suitable for Pentecost as well as for general events and memorial services. 
+
+Luther's chorale is a piece of numerous hymn books, sung in a few Christian divisions and in interpretations. It roused vocal and organ music from the Renaissance to contemporary, including by arrangers, for example, Michael Praetorius, Dieterich Buxtehude and Johann Sebastian Bach. 
+
+Interchange variants of the psalm, finishing up the equivalent medieval first stanza, have showed up in Catholic hymn books, first in 1537 by Michael Vehe, a Dominican monk and scholar. His song was reexamined by Maria Luise Thurmair and distributed in 1972, and still piece of the 2013 Catholic hymn book "Gotteslob". 
+
+The medieval leise (a kind of sort of vernacular medieval church melody), which later turned into the principal stanza, is reported in the thirteenth century: ascribed to the Franciscan Berthold von Regensburg (passed on 1272) who cited it in a message: 
+
+The stanza frames a petition in German to the Holy Spirit, reminiscent of the Latin grouping Veni Sancte Spiritus. The worry is "the majority of all" (allermeist) the "right confidence" (rechten glouben), considering to return "home" (heim) after the "oust" (ellende) of life. In the old German, "ellende" implied banish and was worried on the second syllable, rhyming with "ende", though the cutting edge "Elend" is worried on the primary syllable and means "hopelessness". The center is, as in the finish of Veni Sancte Spiritus ("da salutis exitum"), the help of the Holy Spirit at the season of death. 
+
+The leise was generally known. A tune got from the serenade of the succession initially showed up in Jistebnitz around 1420. Past the Pentecostal source, it was utilized as a parade tune and in sacrosanct plays. 
+
+The Protestant reformer Martin Luther issued a ritual for administrations in 1523, "Recipe missae et communionis". One perspective was the consideration of psalms in German. He prescribed, for absence of choices, three medieval tunes to be sung normally: "Gott sei gelobet und gebenedeiet", "Ein Kindelein so lobelich" and, presumably as the continuous, "Cloister adherent nibbled wir cave Heiligen Geist". The leise had a long convention. Its points of the correct confidence ("rechter Glaube", "veram fide"), and the possibility of the season of death, more likely than not spoke to Luther. He had referenced "veram fide" in an early lesson about the leise (1509 or 1510), and advanced salvation by confidence alone ("sola fide"). Considerations of the season of death were with him all through life, and he was not the only one. 
+
+In 1524, conceivably for Pentecost, Luther extended "Cloister adherent chomped wir" by three stanzas, tending to the Holy Spirit three additional occasions, as "Du wertes Licht" (You regarded light), "Du sÄÅºÄÂe Lieb" (You sweet love) and "Du hÄÅchster TrÄÅster" (You most astounding sofa-bed). In the convention of melodies about the Holy Spirit, which notice his complex blessings, three angles are referenced: light, love and sofa-bed. 
+
+The three later stanzas can be as observed identified with Paul's idea of "Glaube, Liebe, Hoffnung" (confidence, love, trust), which he communicated in his First Epistle to the Corinthians, . Luther finished every stanza with "Kyrieleis", as in the medieval leise, and pursued its sporadic meter. 
+
+Luther's content in modernized German peruses as pursues: 
+
+Luther's content, set to music by Johann Walter, showed up in 1524 in Wittenberg as a major aspect of Walter's choral hymn book , once in a while called First Wittenberg Hymnal. In Walter's hymn book, the content was set in an area for general use. Luther recommended the tune for customary use between epistle perusing and gospel perusing in his "Deutsche Messe", a 1526 ceremony for administrations in German, and included it among his burial service melodies ("BegrÄÂ¤bnisgesÄÂ¤nge") in 1542. 
+
+Johann CrÄÅºger incorporated the melody, the same number of by Luther, in his hymn book "Praxis pietatis melica" which was first distributed in 1647. The psalm has frequently been related with Pentecost. It is a piece of numerous hymn books, in a few Christian divisions and in interpretations. 
+
+The most established interpretation of Luther's psalm to Danish showed up in 1528. Interpretations to English incorporate "We currently beg God the Holy Ghost" in "The Lutheran Hymnal", St. Louis, 1941. Arthur Tozer Russell composed an interpretation, rendered in the 1884 book "Martin Luther, The Hymns of Martin Luther". It was likewise made an interpretation of as "To God the Holy Spirit let us supplicate". 
+
+In 1537, Michael Vehe, a Dominican monk and scholar, utilized the medieval stanza as a beginning stage for a further three stanzas that are free of Luther's. 
+
+<score vorbis="1"> \relative c' 
+
+\key f \major \tiny 
+
+f4 g4 f4 d4 c4 d4 f4 \bar "'" 
+
+a4 c4 d4 c4 a4 f4 d4 f4 \bar "'" a4 
+
+a4 g4 a4 f4 g4 a4 f4 \bar "'" g4 a4 
+
+f4 d4 f4 g4( f4) d4 c4 \bar "" d4 e4 f4 \bar "||" } 
+
+\addlyrics { \tiny Nun bit - ten wir sanctum Hei - li - gen Geist um nook rech - ten Glau - ben al - ler - meist, dass er uns be - hÄÅº - te an un - serm En - de, wann wir heim - fahrn aus bite the dust - sem E - len - de. Ky - ri - e - leis! } 
+
+</score> 
+
+Vehe's three stanzas read as pursues: 
+
+Like Luther, Vehe addresses the Holy Spirit multiple times, as unceasing light, sofa lastly love and goodness. The supplication is initially for activities satisfying God, besides for an unadulterated life, not going amiss from the correct way, lastly to cherish one's neighbor and stay in harmony. 
+
+Vehe's rendition showed up with the serenade tune in the main basic German Catholic hymn book "Gotteslob" in 1975, as GL 870 for the Diocese of Limburg. 
+
+In the fundamental segment of a similar hymn book, the song showed up as GL 248, again in an alternate adaptation, with stanzas two to four written in 1972 by Maria Luise Thurmair, who shut with a fifth stanza displayed after Vehe's second. In the three internal stanzas, the Spirit is tended to, presently as "Du heller Schein" (You light sparkle), "Du stille Macht" (You quiet power), and "Du mÄÂ¤chtger Hauch" (You relentless breath). The tune of her melody was an interpretation of the serenade in fixed cadence. Thurmair's rendition was kept in the second version of the "Gotteslob" in 2013, presently as GL 348. 
+
+Johann Walter, who teamed up with Luther, adjusted the medieval serenade tune marginally and set it for four sections for his . He set it for five sections, SATBB, for the 1537 release of the hymn book. He additionally composed a six-section rendition, SSAATB. 
+
+Michael Praetorius created seven a cappella settings, for two to six voices. Dieterich Buxtehude formed two choralen preludes, BuxWV 208 and BuxWV 209. Johann CrÄÅºger set the psalm as one of 161 in his 1649 gathering "Geistliche Kirchen-Melodien". 
+
+Johann Sebastian Bach utilized the third stanza to finish up his cantata "Gott soll allein mein Herze haben", BWV 169., It was formed in Leipzig for the eighteenth Sunday after Trinity, managing the point of the Great Commandment, and first performed on 20 October 1726. Bach additionally set a similar stanza for a wedding cantata during the 1730s, "Gott ist unsre Zuversicht", BWV 197, where it finished up Part I, the fifth of ten developments. His third setting is an untexted four-section adaptation, BWV 385. 
+
+Organ preludes were formed by Georg BÄÅhm, Helmut Eder, Paul Hamburger, Arnold Mendelssohn, Ernst Pepping, Heinrich Scheidemann, Johann Gottfried Vierling, Helmut Walcha and Johann Gottfried Walther, among others. 
+
+Johann Nepomuk David wrote in 1936 a Choralmottete (chorale motet) for four-section choir a cappella . Hugo Distler formed a setting for three high voices (SSA) with instrumental recesses for a trio of woodwind, oboe and violin, or two violins and viola. The melody is the primary development of Pepping's "Deutsche Choralmesse" (Chorale Mass in German) for six voices a cappella (SSATBB), in the situation of the Kyrie call of the Latin mass. 
+
+Herbert Blendinger wrote in 1984 an organization for cello and organ titled , Op. 36. formed Pentecostal music for viola solo in 1986, "Diaphanie: Fantasia super "Veni maker spiritus" et Canones diversi super "Cloister adherent nibbled wir lair heiligen Geist"", joining the song with another Latin arrangement, Veni maker spiritus, distributed in ZÄÅºrich in 1989. 
+
+"Books" 
+
+"Online sources"

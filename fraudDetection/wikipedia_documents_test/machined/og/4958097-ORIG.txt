@@ -1,0 +1,31 @@
+55 Cancri e
+
+55 Cancri e (abbreviated 55 Cnc e, also named Janssen), is an exoplanet in the orbit of its Sun-like host star 55 Cancri A. The mass of the exoplanet is about 8.63 Earth masses and its diameter is about twice that of the Earth, thus classifying it as the first super-Earth discovered around a main sequence star, predating Gliese 876 d by a year. It takes less than 18 hours to complete an orbit and is the innermost known planet in its planetary system. 55 Cancri e was discovered on 30 August 2004. However, until the 2010 observations and recalculations, this planet had been thought to take about 2.8 days to orbit the star. In October 2012, it was announced that 55 Cancri e could be a carbon planet.
+
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning name was Janssen for this planet. The winning name was submitted by the Royal Netherlands Association for Meteorology and Astronomy of the Netherlands. It honors the spectacle maker and telescope pioneer Zacharias Janssen.
+
+In February 2016, it was announced that NASA "Hubble Space Telescope" had detected hydrogen and helium (and suggestions of hydrogen cyanide), but no water vapor, in the atmosphere of 55 Cancri e, the first time the atmosphere of a super-Earth exoplanet was analyzed successfully.
+
+Like the majority of extrasolar planets found prior to the Kepler mission, 55 Cancri e was discovered by detecting variations in its star's radial velocity. This was achieved by making sensitive measurements of the Doppler shift of the spectrum of 55 Cancri A. At the time of its discovery, three other planets were known orbiting the star. After accounting for these planets, a signal at around 2.8 days remained, which could be explained by a planet of at least 14.2 Earth masses in a very close orbit. The same measurements were used to confirm the existence of the uncertain planet 55 Cancri c.
+55 Cancri e was one of the first extrasolar planets with a mass comparable to that of Neptune to be discovered. It was announced at the same time as another "hot Neptune" orbiting the red dwarf star Gliese 436 named Gliese 436 b.
+
+In 2005, the existence of planet e was questioned by Jack Wisdom in a reanalysis of the data. He suggested that the 2.8 day planet was an alias and, separately, that there was a 260-day planet in orbit around 55 Cancri. In 2008, Fischer et al. published a new analysis that appeared to confirm the existence of the 2.8 day planet and the 260 day planet. However, the 2.8 day planet was shown to be an alias by Dawson and Fabrycky (2010); its true period was 0.7365 days.
+
+The planet's transit of its host star was announced on 27 April 2011, based on two weeks of nearly continuous photometric monitoring with the MOST space telescope. The transits occur with the period (0.74 days) and phase that had been predicted by Dawson & Fabrycky. This is one of the few planetary transits to be confirmed around a well-known star, and allowed investigations into the planet's composition.
+
+The radial velocity method used to detect 55 Cancri e obtains the minimum mass of 7.8 times that of Earth, or 48% of the mass of Neptune. The transit shows that its inclination is about 83.4 ± 1.7, so the real mass is close to the minimum. 55 Cancri e is also coplanar with b.
+
+The planet is extremely likely to be tidally locked, meaning that there is a permanent day side and a permanent night side.
+
+55 Cancri e receives more radiation than Gliese 436 b. The side of the planet facing its star has temperatures more than 2,000 kelvin (approximately 1,700 degrees Celsius or 3,100 Fahrenheit), hot enough to melt iron. Infrared mapping with the Spitzer Space Telescope indicated an average front side temperature of and an average back side temperature of around .
+
+It was initially unknown whether 55 Cancri e was a small gas giant like Neptune or a large rocky terrestrial planet. In 2011, a transit of the planet was confirmed, allowing scientists to calculate its density. At first it was suspected to be a water planet. As initial observations showed no hydrogen in its Lyman-alpha signature during transit, Ehrenreich speculated that its volatile materials might be carbon dioxide instead of water or hydrogen.
+
+An alternative possibility is that 55 Cancri e is a solid planet made of carbon-rich material rather than the oxygen-rich material that makes up the terrestrial planets in our solar system. In this case, roughly a third of the planet's mass would be carbon, much of which may be in the form of diamond as a result of the temperatures and pressures in the planet's interior. Further observations are necessary to confirm the nature of the planet.
+
+In February 2016, it was announced that NASA's Hubble Space Telescope had detected hydrogen and helium (and suggestions of hydrogen cyanide), but no water vapor, in the atmosphere of 55 Cancri e, the first time the atmosphere of a super-Earth exoplanet was analyzed successfully. In November 2017, it was announced that infrared observations with the Spitzer Space Telescope indicated the presence of a global lava ocean obscured by an atmosphere with a pressure of about 1.4 bar, slightly thicker than that of Earth. The atmosphere may contain similar chemicals in Earth's atmosphere, such as nitrogen and possibly oxygen, in order to cause the infrared data observed by Spitzer.
+
+Large surface temperature variations on 55 Cancri e have been attributed to possible volcanic activity releasing large clouds of dust which blanket the planet and block thermal emissions.
+
+
+

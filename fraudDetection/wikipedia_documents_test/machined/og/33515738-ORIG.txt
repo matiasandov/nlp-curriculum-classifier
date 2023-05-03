@@ -1,0 +1,63 @@
+Nun bitten wir den Heiligen Geist
+
+"" (We now implore the Holy Ghost) is a German Christian hymn. The first stanza is a leise from the 13th century which alludes to the Latin sequence Veni Sancte Spiritus (Come, Holy Spirit) for Pentecost. It was widely known, and was used beyond its Pentecostal origin, also as a procession song and in sacred plays.
+
+The most prominent form of today's hymn contains three further stanzas written by the Protestant reformer Martin Luther. He recommended the leise in his 1523 liturgy to be used regularly in church services. The request to the Holy Spirit for the right faith most of all ("um den rechten Glauben allermeist") suited Luther's theology well. In 1524, possibly for Pentecost, he wrote the additional stanzas. This version was published first in Wittenberg the same year as part of Johann Walter's First Wittenberg Hymnal. The song's themes of faith, love and hope render it appropriate not only for Pentecost but also for general occasions and funerals.
+
+Luther's chorale is part of many hymnals, sung in several Christian denominations and in translations. It inspired vocal and organ music from the Renaissance to contemporary, including by composers such as Michael Praetorius, Dieterich Buxtehude and Johann Sebastian Bach.
+
+Alternate versions of the hymn, concluding the same medieval first stanza, have appeared in Catholic hymnals, first in 1537 by Michael Vehe, a Dominican friar and theologian. His hymn was revised by Maria Luise Thurmair and published in 1972, and still part of the 2013 Catholic hymnal "Gotteslob".
+
+The medieval leise (a type of genre of vernacular medieval church song), which later became the first stanza, is documented in the 13th century: attributed to the Franciscan Berthold von Regensburg (died 1272) who quoted it in a sermon:
+
+The stanza forms a prayer in German to the Holy Spirit, reminiscent of the Latin sequence Veni Sancte Spiritus. The concern is "most of all" (allermeist) the "right faith" (rechten glouben), considering to return "home" (heim) after the "exile" (ellende) of life. In the old German, "ellende" meant exile and was stressed on the second syllable, rhyming with "ende", whereas the modern "Elend" is stressed on the first syllable and translates to "misery". The focus is, as in the conclusion of Veni Sancte Spiritus ("da salutis exitum"), the assistance of the Holy Spirit at the time of death.
+
+The leise was widely known. A tune derived from the chant of the sequence first appeared in Jistebnitz around 1420. Beyond the Pentecostal origin, it was used as a procession song and in sacred plays.
+
+The Protestant reformer Martin Luther issued a liturgy for services in 1523, "Formula missae et communionis". One aspect was the inclusion of hymns in German. He recommended, for lack of alternatives, three medieval songs to be sung regularly: "Gott sei gelobet und gebenedeiet", "Ein Kindelein so lobelich" and, probably as the gradual, "Nun bitten wir den Heiligen Geist". The leise had a long tradition. Its topics of the right faith ("rechter Glaube", "veram fide"), and the thought of the time of death, must have appealed to Luther. He had mentioned "veram fide" in an early sermon about the leise (1509 or 1510), and promoted salvation by faith alone ("sola fide"). Thoughts of the time of death were with him throughout life, and he was not alone.
+
+In 1524, possibly for Pentecost, Luther expanded "Nun bitten wir" by three stanzas, addressing the Holy Spirit three more times, as "Du wertes Licht" (You esteemed light), "Du süße Lieb" (You sweet love) and "Du höchster Tröster" (You highest comforter). In the tradition of songs about the Holy Spirit, which mention his manifold gifts, three aspects are mentioned: light, love and comforter.
+
+The three later stanzas can be as seen related to Paul's concept of "Glaube, Liebe, Hoffnung" (faith, love, hope), which he expressed in his First Epistle to the Corinthians, . Luther ended each stanza with "Kyrieleis", as in the medieval leise, and followed its irregular metre.
+
+Luther's text in modernised German reads as follows:
+
+Luther's text, set to music by Johann Walter, appeared in 1524 in Wittenberg as part of Walter's choral hymnal , sometimes called First Wittenberg Hymnal. In Walter's hymnal, the text was placed in a section for general use. Luther prescribed the song for regular use between epistle reading and gospel reading in his "Deutsche Messe", a 1526 liturgy for services in German, and included it among his funeral songs ("Begräbnisgesänge") in 1542.
+
+Johann Crüger included the song, as many by Luther, in his hymnal "Praxis pietatis melica" which was first published in 1647. The hymn has often been associated with Pentecost. It is part of many hymnals, in several Christian denominations and in translations.
+
+The oldest translation of Luther's hymn to Danish appeared in 1528. Translations to English include "We now implore God the Holy Ghost" in "The Lutheran Hymnal", St. Louis, 1941. Arthur Tozer Russell wrote a translation, rendered in the 1884 book "Martin Luther, The Hymns of Martin Luther". It was also translated as "To God the Holy Spirit let us pray".
+
+In 1537, Michael Vehe, a Dominican friar and theologian, used the medieval stanza as a starting point for a further three stanzas that are independent of Luther's.
+<score vorbis="1"> \relative c' 
+\key f \major \tiny 
+f4 g4 g4 f4 d4 c4 d4 f4 f4 \bar "'" 
+a4 c4 d4 c4 a4 f4 d4 f4 f4 \bar "'" a4 a4 
+a4 g4 a4 f4 f4 g4 g4 a4 f4 \bar "'" g4 g4 a4 
+f4 d4 f4 f4 g4( f4) d4 c4 \bar "" d4 e4 f4 f4 \bar "||" } 
+\addlyrics { \tiny Nun bit -- ten wir den Hei -- li -- gen Geist um den rech -- ten Glau -- ben al -- ler -- meist, dass er uns be -- hü -- te an un -- serm En -- de, wann wir heim -- fahrn aus die -- sem E -- len -- de. Ky -- ri -- e -- leis! } 
+</score>
+Vehe's three stanzas read as follows:
+Like Luther, Vehe addresses the Holy Spirit three times, as eternal light, comforter and finally love and goodness. The prayer is firstly for actions pleasing God, secondly for a pure life, not deviating from the right path, and finally to love one's neighbour and remain in peace.
+
+Vehe's version appeared with the chant melody in the first common German Catholic hymnal "Gotteslob" in 1975, as GL 870 for the Diocese of Limburg.
+
+In the main section of the same hymnal, the hymn appeared as GL 248, again in a different version, with stanzas two to four written in 1972 by Maria Luise Thurmair, who closed with a fifth stanza modeled after Vehe's second. In the three inner stanzas, the Spirit is addressed, now as "Du heller Schein" (You light shine), "Du stille Macht" (You silent power), and "Du mächtger Hauch" (You mighty breath). The melody of her song was a transcription of the chant in fixed rhythm. Thurmair's version was kept in the second edition of the "Gotteslob" in 2013, now as GL 348.
+
+Johann Walter, who collaborated with Luther, modified the medieval chant tune slightly and set it for four parts for his . He set it for five parts, SATBB, for the 1537 edition of the hymnal. He also wrote a six-part version, SSAATB.
+
+Michael Praetorius composed seven a cappella settings, for two to six voices. Dieterich Buxtehude composed two choralen preludes, BuxWV 208 and BuxWV 209. Johann Crüger set the hymn as one of 161 in his 1649 collection "Geistliche Kirchen-Melodien".
+
+Johann Sebastian Bach used the third stanza to conclude his cantata "Gott soll allein mein Herze haben", BWV 169., It was composed in Leipzig for the 18th Sunday after Trinity, dealing with the topic of the Great Commandment, and first performed on 20 October 1726. Bach also set the same stanza for a wedding cantata in the 1730s, "Gott ist unsre Zuversicht", BWV 197, where it concluded Part I, the fifth of ten movements. His third setting is an untexted four-part version, BWV 385.
+
+Organ preludes were composed by Georg Böhm, Helmut Eder, Paul Hamburger, Arnold Mendelssohn, Ernst Pepping, Heinrich Scheidemann, Johann Gottfried Vierling, Helmut Walcha and Johann Gottfried Walther, among others.
+
+Johann Nepomuk David wrote in 1936 a Choralmottete (chorale motet) for four-part choir a cappella . Hugo Distler composed a setting for three high voices (SSA) with instrumental interludes for a trio of flute, oboe and violin, or two violins and viola. The song is the first movement of Pepping's "Deutsche Choralmesse" (Chorale Mass in German) for six voices a cappella (SSATBB), in the position of the Kyrie call of the Latin mass.
+
+Herbert Blendinger wrote in 1984 a composition for cello and organ titled , Op. 36. composed Pentecostal music for viola solo in 1986, "Diaphanie: Fantasia super "Veni creator spiritus" et Canones diversi super "Nun bitten wir den heiligen Geist"", combining the hymn with another Latin sequence, Veni creator spiritus, published in Zürich in 1989.
+"Books"
+
+"Online sources"
+
+
+
